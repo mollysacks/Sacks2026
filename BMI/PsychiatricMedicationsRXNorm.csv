@@ -1,0 +1,956 @@
+,drug_name,drug_name_full,rxcui,drug_class
+0,aripiprazole,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify],1602604,antipsychotic
+1,aripiprazole,2 ML aripiprazole 200 MG/ML Prefilled Syringe [Abilify],1602607,antipsychotic
+2,aripiprazole,aripiprazole 400 MG Injection [Abilify],1659814,antipsychotic
+3,aripiprazole,aripiprazole 300 MG Injection [Abilify],1659818,antipsychotic
+4,aripiprazole,Sensor aripiprazole 10 MG Oral Tablet [Abilify],1998453,antipsychotic
+5,aripiprazole,Sensor aripiprazole 15 MG Oral Tablet [Abilify],1998455,antipsychotic
+6,aripiprazole,Sensor aripiprazole 2 MG Oral Tablet [Abilify],1998457,antipsychotic
+7,aripiprazole,Sensor aripiprazole 20 MG Oral Tablet [Abilify],1998459,antipsychotic
+8,aripiprazole,Sensor aripiprazole 30 MG Oral Tablet [Abilify],1998461,antipsychotic
+9,aripiprazole,Sensor aripiprazole 5 MG Oral Tablet [Abilify],1998463,antipsychotic
+10,aripiprazole,2.4 ML aripiprazole 300 MG/ML Prefilled Syringe [Abilify],2636640,antipsychotic
+11,aripiprazole,3.2 ML aripiprazole 300 MG/ML Prefilled Syringe [Abilify],2636646,antipsychotic
+12,aripiprazole,aripiprazole 10 MG Oral Tablet [Abilify],352307,antipsychotic
+13,aripiprazole,aripiprazole 15 MG Oral Tablet [Abilify],352308,antipsychotic
+14,aripiprazole,aripiprazole 20 MG Oral Tablet [Abilify],352309,antipsychotic
+15,aripiprazole,aripiprazole 30 MG Oral Tablet [Abilify],352310,antipsychotic
+16,aripiprazole,aripiprazole 5 MG Oral Tablet [Abilify],404602,antipsychotic
+17,aripiprazole,aripiprazole 2 MG Oral Tablet [Abilify],615172,antipsychotic
+18,aripiprazole,1.5 ML aripiprazole 200 MG/ML Prefilled Syringe,1602163,antipsychotic
+19,aripiprazole,2 ML aripiprazole 200 MG/ML Prefilled Syringe,1602171,antipsychotic
+20,aripiprazole,aripiprazole 400 MG Injection,1659812,antipsychotic
+21,aripiprazole,aripiprazole 300 MG Injection,1659816,antipsychotic
+22,aripiprazole,Sensor aripiprazole 10 MG Oral Tablet,1998451,antipsychotic
+23,aripiprazole,Sensor aripiprazole 15 MG Oral Tablet,1998454,antipsychotic
+24,aripiprazole,Sensor aripiprazole 2 MG Oral Tablet,1998456,antipsychotic
+25,aripiprazole,Sensor aripiprazole 20 MG Oral Tablet,1998458,antipsychotic
+26,aripiprazole,Sensor aripiprazole 30 MG Oral Tablet,1998460,antipsychotic
+27,aripiprazole,Sensor aripiprazole 5 MG Oral Tablet,1998462,antipsychotic
+28,aripiprazole,2.4 ML aripiprazole 300 MG/ML Prefilled Syringe,2636637,antipsychotic
+29,aripiprazole,3.2 ML aripiprazole 300 MG/ML Prefilled Syringe,2636645,antipsychotic
+30,aripiprazole,aripiprazole 15 MG Oral Tablet,349490,antipsychotic
+31,aripiprazole,aripiprazole 10 MG Oral Tablet,349545,antipsychotic
+32,aripiprazole,aripiprazole 30 MG Oral Tablet,349547,antipsychotic
+33,aripiprazole,aripiprazole 20 MG Oral Tablet,349553,antipsychotic
+34,aripiprazole,aripiprazole 5 MG Oral Tablet,402131,antipsychotic
+35,aripiprazole,aripiprazole 1 MG/ML Oral Solution,485496,antipsychotic
+36,aripiprazole,aripiprazole 2 MG Oral Tablet,602964,antipsychotic
+37,aripiprazole,aripiprazole 10 MG Disintegrating Oral Tablet,643019,antipsychotic
+38,aripiprazole,aripiprazole 15 MG Disintegrating Oral Tablet,643022,antipsychotic
+39,aripiprazole,aripiprazole 20 MG Disintegrating Oral Tablet,643027,antipsychotic
+40,aripiprazole,aripiprazole 30 MG Disintegrating Oral Tablet,643058,antipsychotic
+41,aripiprazole,1.3 ML aripiprazole 7.5 MG/ML Injection,672356,antipsychotic
+0,ziprasidone,ziprasidone 40 MG Oral Capsule [Geodon],284548,antipsychotic
+1,ziprasidone,ziprasidone 60 MG Oral Capsule [Geodon],284549,antipsychotic
+2,ziprasidone,ziprasidone 80 MG Oral Capsule [Geodon],284550,antipsychotic
+3,ziprasidone,ziprasidone 20 MG Oral Capsule [Geodon],285127,antipsychotic
+4,ziprasidone,ziprasidone 20 MG Injection [Geodon],352228,antipsychotic
+5,ziprasidone,ziprasidone 40 MG Oral Capsule,313776,antipsychotic
+6,ziprasidone,ziprasidone 60 MG Oral Capsule,313777,antipsychotic
+7,ziprasidone,ziprasidone 80 MG Oral Capsule,313778,antipsychotic
+8,ziprasidone,ziprasidone 20 MG Oral Capsule,314286,antipsychotic
+9,ziprasidone,ziprasidone 20 MG Injection,351223,antipsychotic
+0,asenapine,asenapine 2.5 MG Sublingual Tablet [Saphris],1606490,antipsychotic
+1,asenapine,24 HR asenapine 0.158 MG/HR Transdermal System [Secuado],2265729,antipsychotic
+2,asenapine,24 HR asenapine 0.238 MG/HR Transdermal System [Secuado],2265732,antipsychotic
+3,asenapine,24 HR asenapine 0.317 MG/HR Transdermal System [Secuado],2265735,antipsychotic
+4,asenapine,asenapine 10 MG Sublingual Tablet [Saphris],859979,antipsychotic
+5,asenapine,asenapine 5 MG Sublingual Tablet [Saphris],859983,antipsychotic
+6,asenapine,asenapine 2.5 MG Sublingual Tablet,1606337,antipsychotic
+7,asenapine,24 HR asenapine 0.158 MG/HR Transdermal System,2261741,antipsychotic
+8,asenapine,24 HR asenapine 0.238 MG/HR Transdermal System,2261750,antipsychotic
+9,asenapine,24 HR asenapine 0.317 MG/HR Transdermal System,2261758,antipsychotic
+10,asenapine,asenapine 10 MG Sublingual Tablet,859975,antipsychotic
+11,asenapine,asenapine 5 MG Sublingual Tablet,859981,antipsychotic
+0,olanzapine,olanzapine 5 MG Oral Tablet [Zyprexa],153046,antipsychotic
+1,olanzapine,olanzapine 7.5 MG Oral Tablet [Zyprexa],153047,antipsychotic
+2,olanzapine,olanzapine 10 MG Oral Tablet [Zyprexa],153048,antipsychotic
+3,olanzapine,olanzapine 405 MG Injection [Zyprexa],1718928,antipsychotic
+4,olanzapine,olanzapine 300 MG Injection [Zyprexa],1718932,antipsychotic
+5,olanzapine,olanzapine 210 MG Injection [Zyprexa],1718936,antipsychotic
+6,olanzapine,olanzapine 2.5 MG Oral Tablet [Zyprexa],212405,antipsychotic
+7,olanzapine,olanzapine 5 MG / samidorphan 10 MG Oral Tablet [Lybalvi],2570398,antipsychotic
+8,olanzapine,olanzapine 10 MG / samidorphan 10 MG Oral Tablet [Lybalvi],2570401,antipsychotic
+9,olanzapine,olanzapine 15 MG / samidorphan 10 MG Oral Tablet [Lybalvi],2570404,antipsychotic
+10,olanzapine,olanzapine 20 MG / samidorphan 10 MG Oral Tablet [Lybalvi],2570407,antipsychotic
+11,olanzapine,olanzapine 15 MG Oral Tablet [Zyprexa],261337,antipsychotic
+12,olanzapine,olanzapine 20 MG Oral Tablet [Zyprexa],284514,antipsychotic
+13,olanzapine,olanzapine 10 MG Injection [Zyprexa],545353,antipsychotic
+14,olanzapine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax],725064,antipsychotic
+15,olanzapine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax],725068,antipsychotic
+16,olanzapine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax],725072,antipsychotic
+17,olanzapine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax],725080,antipsychotic
+18,olanzapine,olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa],754503,antipsychotic
+19,olanzapine,olanzapine 15 MG Disintegrating Oral Tablet [Zyprexa],754504,antipsychotic
+20,olanzapine,olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa],754505,antipsychotic
+21,olanzapine,olanzapine 5 MG Disintegrating Oral Tablet [Zyprexa],754506,antipsychotic
+22,olanzapine,olanzapine 405 MG Injection,1718925,antipsychotic
+23,olanzapine,olanzapine 300 MG Injection,1718930,antipsychotic
+24,olanzapine,olanzapine 210 MG Injection,1718934,antipsychotic
+25,olanzapine,olanzapine 2.5 MG Oral Tablet,200034,antipsychotic
+26,olanzapine,olanzapine 5 MG / samidorphan 10 MG Oral Tablet,2570392,antipsychotic
+27,olanzapine,olanzapine 10 MG / samidorphan 10 MG Oral Tablet,2570399,antipsychotic
+28,olanzapine,olanzapine 15 MG / samidorphan 10 MG Oral Tablet,2570402,antipsychotic
+29,olanzapine,olanzapine 20 MG / samidorphan 10 MG Oral Tablet,2570405,antipsychotic
+30,olanzapine,olanzapine 20 MG Oral Tablet,283639,antipsychotic
+31,olanzapine,olanzapine 10 MG Disintegrating Oral Tablet,312076,antipsychotic
+32,olanzapine,olanzapine 15 MG Oral Tablet,312077,antipsychotic
+33,olanzapine,olanzapine 5 MG Oral Tablet,312078,antipsychotic
+34,olanzapine,olanzapine 7.5 MG Oral Tablet,312079,antipsychotic
+35,olanzapine,olanzapine 10 MG Oral Tablet,314154,antipsychotic
+36,olanzapine,olanzapine 5 MG Disintegrating Oral Tablet,314155,antipsychotic
+37,olanzapine,olanzapine 15 MG Disintegrating Oral Tablet,351107,antipsychotic
+38,olanzapine,olanzapine 20 MG Disintegrating Oral Tablet,351108,antipsychotic
+39,olanzapine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule,403969,antipsychotic
+40,olanzapine,fluoxetine 25 MG / olanzapine 12 MG Oral Capsule,403970,antipsychotic
+41,olanzapine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule,403971,antipsychotic
+42,olanzapine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule,403972,antipsychotic
+43,olanzapine,olanzapine 10 MG Injection,485968,antipsychotic
+44,olanzapine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule,721787,antipsychotic
+0,cariprazine,{1 (cariprazine 1.5 MG Oral Capsule [Vraylar]) / 6 (cariprazine 3 MG Oral Capsule [Vraylar]) } Pack [Vraylar 1.5/3 Mixed Pack],1741747,antipsychotic
+1,cariprazine,{1 (cariprazine 1.5 MG Oral Capsule) / 6 (cariprazine 3 MG Oral Capsule) } Pack,1741746,antipsychotic
+2,cariprazine,cariprazine 1.5 MG Oral Capsule [Vraylar],1667666,antipsychotic
+3,cariprazine,cariprazine 3 MG Oral Capsule [Vraylar],1667670,antipsychotic
+4,cariprazine,cariprazine 4.5 MG Oral Capsule [Vraylar],1667674,antipsychotic
+5,cariprazine,cariprazine 6 MG Oral Capsule [Vraylar],1667678,antipsychotic
+6,cariprazine,cariprazine 1.5 MG Oral Capsule,1667660,antipsychotic
+7,cariprazine,cariprazine 3 MG Oral Capsule,1667668,antipsychotic
+8,cariprazine,cariprazine 4.5 MG Oral Capsule,1667672,antipsychotic
+9,cariprazine,cariprazine 6 MG Oral Capsule,1667676,antipsychotic
+0,loxapine,1 ACTUAT loxapine 10 MG/ACTUAT Dry Powder Inhaler [Adasuve],1367521,antipsychotic
+1,loxapine,1 ACTUAT loxapine 10 MG/ACTUAT Dry Powder Inhaler,1367518,antipsychotic
+2,loxapine,loxapine 25 MG Oral Capsule,311385,antipsychotic
+3,loxapine,loxapine 5 MG Oral Capsule,311386,antipsychotic
+4,loxapine,loxapine 50 MG Oral Capsule,314075,antipsychotic
+5,loxapine,loxapine 10 MG Oral Capsule,314078,antipsychotic
+0,chlorpromazine,1 ML chlorpromazine hydrochloride 25 MG/ML Injection,1730076,antipsychotic
+1,chlorpromazine,2 ML chlorpromazine hydrochloride 25 MG/ML Injection,1730078,antipsychotic
+2,chlorpromazine,chlorpromazine 100 MG Rectal Suppository,199023,antipsychotic
+3,chlorpromazine,chlorpromazine hydrochloride 10 MG Oral Tablet,991039,antipsychotic
+4,chlorpromazine,chlorpromazine hydrochloride 100 MG Oral Tablet,991044,antipsychotic
+5,chlorpromazine,chlorpromazine hydrochloride 100 MG/ML Oral Solution,991053,antipsychotic
+6,chlorpromazine,chlorpromazine hydrochloride 2 MG/ML Oral Solution,991184,antipsychotic
+7,chlorpromazine,chlorpromazine hydrochloride 200 MG Oral Tablet,991188,antipsychotic
+8,chlorpromazine,chlorpromazine hydrochloride 25 MG Oral Tablet,991194,antipsychotic
+9,chlorpromazine,chlorpromazine hydrochloride 10 MG/ML Oral Solution,991238,antipsychotic
+10,chlorpromazine,chlorpromazine hydrochloride 20 MG/ML Oral Solution,991241,antipsychotic
+11,chlorpromazine,chlorpromazine hydrochloride 30 MG/ML Oral Solution,991332,antipsychotic
+12,chlorpromazine,chlorpromazine hydrochloride 50 MG Oral Tablet,991336,antipsychotic
+13,chlorpromazine,chlorpromazine hydrochloride 20 MG/ML Oral Suspension,991344,antipsychotic
+14,chlorpromazine,chlorpromazine hydrochloride 5 MG/ML Oral Solution,991366,antipsychotic
+15,chlorpromazine,chlorpromazine 25 MG Rectal Suppository,992689,antipsychotic
+16,chlorpromazine,chlorpromazine 300 MG Rectal Suppository,992699,antipsychotic
+17,chlorpromazine,chlorpromazine 50 MG Rectal Suppository,992701,antipsychotic
+0,molindone,molindone hydrochloride 10 MG Oral Tablet,1298816,antipsychotic
+1,molindone,molindone hydrochloride 100 MG Oral Tablet,1298818,antipsychotic
+2,molindone,molindone hydrochloride 25 MG Oral Tablet,1298906,antipsychotic
+3,molindone,molindone hydrochloride 5 MG Oral Tablet,1298910,antipsychotic
+4,molindone,molindone hydrochloride 50 MG Oral Tablet,1298922,antipsychotic
+0,clozapine,clozapine 25 MG Oral Tablet [Clozaril],104775,antipsychotic
+1,clozapine,clozapine 100 MG Oral Tablet [Clozaril],104776,antipsychotic
+2,clozapine,clozapine 50 MG/ML Oral Suspension [Versacloz],1369831,antipsychotic
+3,clozapine,clozapine 200 MG Oral Tablet [Clozaril],2269079,antipsychotic
+4,clozapine,clozapine 50 MG Oral Tablet [Clozaril],2269081,antipsychotic
+5,clozapine,clozapine 150 MG Disintegrating Oral Tablet,1006801,antipsychotic
+6,clozapine,clozapine 50 MG/ML Oral Suspension,1369825,antipsychotic
+7,clozapine,clozapine 100 MG Oral Tablet,197535,antipsychotic
+8,clozapine,clozapine 25 MG Oral Tablet,197536,antipsychotic
+9,clozapine,clozapine 200 MG Oral Tablet,309374,antipsychotic
+10,clozapine,clozapine 12.5 MG Oral Tablet,404669,antipsychotic
+11,clozapine,clozapine 50 MG Oral Tablet,429212,antipsychotic
+12,clozapine,clozapine 100 MG Disintegrating Oral Tablet,476177,antipsychotic
+13,clozapine,clozapine 25 MG Disintegrating Oral Tablet,476179,antipsychotic
+14,clozapine,clozapine 12.5 MG Disintegrating Oral Tablet,721773,antipsychotic
+15,clozapine,clozapine 200 MG Disintegrating Oral Tablet,996921,antipsychotic
+0,thioridazine,thioridazine 10 MG/ML Oral Solution,108878,antipsychotic
+1,thioridazine,thioridazine 100 MG Oral Tablet,198270,antipsychotic
+2,thioridazine,thioridazine 15 MG Oral Tablet,198271,antipsychotic
+3,thioridazine,thioridazine 150 MG Oral Tablet,198272,antipsychotic
+4,thioridazine,thioridazine 200 MG Oral Tablet,198273,antipsychotic
+5,thioridazine,thioridazine 25 MG Oral Tablet,198274,antipsychotic
+6,thioridazine,thioridazine 50 MG Oral Tablet,198275,antipsychotic
+7,thioridazine,thioridazine 2 MG/ML Oral Solution,246229,antipsychotic
+8,thioridazine,thioridazine 20 MG/ML Oral Suspension,313352,antipsychotic
+9,thioridazine,thioridazine 100 MG/ML Oral Solution,313353,antipsychotic
+10,thioridazine,thioridazine 10 MG Oral Tablet,313354,antipsychotic
+11,thioridazine,thioridazine 5 MG/ML Oral Suspension,313357,antipsychotic
+12,thioridazine,thioridazine 30 MG/ML Oral Solution,313358,antipsychotic
+13,thioridazine,thioridazine 5 MG/ML Oral Solution,392994,antipsychotic
+0,fluphenazine,fluphenazine decanoate 25 MG/ML Injectable Solution,859824,antipsychotic
+1,fluphenazine,fluphenazine hydrochloride 0.5 MG/ML Oral Solution,859835,antipsychotic
+2,fluphenazine,fluphenazine hydrochloride 10 MG Oral Tablet,859841,antipsychotic
+3,fluphenazine,fluphenazine hydrochloride 5 MG Oral Tablet,860918,antipsychotic
+4,fluphenazine,fluphenazine hydrochloride 5 MG/ML Oral Solution,861848,antipsychotic
+5,fluphenazine,fluphenazine hydrochloride 1 MG Oral Tablet,865117,antipsychotic
+6,fluphenazine,fluphenazine hydrochloride 2.5 MG Oral Tablet,865123,antipsychotic
+7,fluphenazine,fluphenazine hydrochloride 2.5 MG/ML Injectable Solution,865129,antipsychotic
+8,fluphenazine,fluphenazine hydrochloride 0.5 MG / nortriptyline 10 MG Oral Tablet,865143,antipsychotic
+9,fluphenazine,fluphenazine hydrochloride 1.5 MG / nortriptyline 30 MG Oral Tablet,865146,antipsychotic
+10,fluphenazine,fluphenazine decanoate 100 MG/ML Injectable Solution,865148,antipsychotic
+0,trifluoperazine,trifluoperazine 2 MG Extended Release Oral Capsule,104762,antipsychotic
+1,trifluoperazine,trifluoperazine 10 MG Extended Release Oral Capsule,104763,antipsychotic
+2,trifluoperazine,trifluoperazine 15 MG Extended Release Oral Capsule,104764,antipsychotic
+3,trifluoperazine,trifluoperazine 1 MG Oral Tablet,198322,antipsychotic
+4,trifluoperazine,trifluoperazine 10 MG Oral Tablet,198323,antipsychotic
+5,trifluoperazine,trifluoperazine 2 MG Oral Tablet,198324,antipsychotic
+6,trifluoperazine,trifluoperazine 5 MG Oral Tablet,198325,antipsychotic
+7,trifluoperazine,trifluoperazine 1 MG/ML Oral Solution,245380,antipsychotic
+8,trifluoperazine,trifluoperazine 10 MG/ML Oral Solution,313473,antipsychotic
+9,trifluoperazine,trifluoperazine 1 MG/ML Oral Suspension,483998,antipsychotic
+10,trifluoperazine,trifluoperazine 0.2 MG/ML Oral Solution,756203,antipsychotic
+0,haloperidol,1 ML haloperidol decanoate 100 MG/ML Injection [Haldol],1719847,antipsychotic
+1,haloperidol,1 ML haloperidol decanoate 50 MG/ML Injection [Haldol],1720026,antipsychotic
+2,haloperidol,haloperidol 0.3 MG/ML Oral Solution,108375,antipsychotic
+3,haloperidol,haloperidol 0.4 MG/ML Oral Solution,108872,antipsychotic
+4,haloperidol,haloperidol 0.2 MG/ML Oral Solution,108873,antipsychotic
+5,haloperidol,haloperidol 2 MG/ML Oral Solution,141935,antipsychotic
+6,haloperidol,1 ML haloperidol 5 MG/ML Injection,1719646,antipsychotic
+7,haloperidol,1 ML haloperidol decanoate 100 MG/ML Injection,1719803,antipsychotic
+8,haloperidol,1 ML haloperidol decanoate 50 MG/ML Injection,1719862,antipsychotic
+9,haloperidol,1 ML haloperidol 5 MG/ML Prefilled Syringe,1876502,antipsychotic
+10,haloperidol,haloperidol 20 MG Oral Tablet,197754,antipsychotic
+11,haloperidol,haloperidol 1.5 MG Oral Tablet,199319,antipsychotic
+12,haloperidol,haloperidol 10 MG/ML Injectable Solution,199953,antipsychotic
+13,haloperidol,haloperidol 5 MG/ML Injectable Solution,204416,antipsychotic
+14,haloperidol,haloperidol 0.5 MG Oral Capsule,249960,antipsychotic
+15,haloperidol,haloperidol 0.5 MG Oral Tablet,310670,antipsychotic
+16,haloperidol,haloperidol 1 MG Oral Tablet,310671,antipsychotic
+17,haloperidol,haloperidol 5 MG Oral Tablet,310672,antipsychotic
+18,haloperidol,haloperidol 1 MG/ML Oral Solution,310673,antipsychotic
+19,haloperidol,haloperidol 2 MG Oral Tablet,314034,antipsychotic
+20,haloperidol,haloperidol 10 MG Oral Tablet,314035,antipsychotic
+21,haloperidol,haloperidol decanoate 50 MG/ML Injectable Solution,859867,antipsychotic
+22,haloperidol,haloperidol decanoate 100 MG/ML Injectable Solution,859871,antipsychotic
+0,brexpiprazole,brexpiprazole 0.25 MG Oral Tablet [Rexulti],1658325,antipsychotic
+1,brexpiprazole,brexpiprazole 0.5 MG Oral Tablet [Rexulti],1658329,antipsychotic
+2,brexpiprazole,brexpiprazole 1 MG Oral Tablet [Rexulti],1658333,antipsychotic
+3,brexpiprazole,brexpiprazole 2 MG Oral Tablet [Rexulti],1658337,antipsychotic
+4,brexpiprazole,brexpiprazole 3 MG Oral Tablet [Rexulti],1658341,antipsychotic
+5,brexpiprazole,brexpiprazole 4 MG Oral Tablet [Rexulti],1658345,antipsychotic
+6,brexpiprazole,brexpiprazole 0.25 MG Oral Tablet,1658319,antipsychotic
+7,brexpiprazole,brexpiprazole 0.5 MG Oral Tablet,1658327,antipsychotic
+8,brexpiprazole,brexpiprazole 1 MG Oral Tablet,1658331,antipsychotic
+9,brexpiprazole,brexpiprazole 2 MG Oral Tablet,1658335,antipsychotic
+10,brexpiprazole,brexpiprazole 3 MG Oral Tablet,1658339,antipsychotic
+11,brexpiprazole,brexpiprazole 4 MG Oral Tablet,1658343,antipsychotic
+0,iloperidone,{2 (iloperidone 1 MG Oral Tablet [Fanapt]) / 2 (iloperidone 2 MG Oral Tablet [Fanapt]) / 2 (iloperidone 4 MG Oral Tablet [Fanapt]) / 2 (iloperidone 6 MG Oral Tablet [Fanapt]) } Pack [Fanapt Titration Pack],848752,antipsychotic
+1,iloperidone,{2 (iloperidone 1 MG Oral Tablet) / 2 (iloperidone 2 MG Oral Tablet) / 2 (iloperidone 4 MG Oral Tablet) / 2 (iloperidone 6 MG Oral Tablet) } Pack,848751,antipsychotic
+2,iloperidone,iloperidone 1 MG Oral Tablet [Fanapt],848726,antipsychotic
+3,iloperidone,iloperidone 10 MG Oral Tablet [Fanapt],848730,antipsychotic
+4,iloperidone,iloperidone 12 MG Oral Tablet [Fanapt],848734,antipsychotic
+5,iloperidone,iloperidone 2 MG Oral Tablet [Fanapt],848738,antipsychotic
+6,iloperidone,iloperidone 4 MG Oral Tablet [Fanapt],848742,antipsychotic
+7,iloperidone,iloperidone 6 MG Oral Tablet [Fanapt],848746,antipsychotic
+8,iloperidone,iloperidone 8 MG Oral Tablet [Fanapt],848750,antipsychotic
+9,iloperidone,iloperidone 1 MG Oral Tablet,848722,antipsychotic
+10,iloperidone,iloperidone 10 MG Oral Tablet,848728,antipsychotic
+11,iloperidone,iloperidone 12 MG Oral Tablet,848732,antipsychotic
+12,iloperidone,iloperidone 2 MG Oral Tablet,848736,antipsychotic
+13,iloperidone,iloperidone 4 MG Oral Tablet,848740,antipsychotic
+14,iloperidone,iloperidone 6 MG Oral Tablet,848744,antipsychotic
+15,iloperidone,iloperidone 8 MG Oral Tablet,848748,antipsychotic
+0,lurasidone,lurasidone hydrochloride 40 MG Oral Tablet [Latuda],1040036,antipsychotic
+1,lurasidone,lurasidone hydrochloride 80 MG Oral Tablet [Latuda],1040043,antipsychotic
+2,lurasidone,lurasidone hydrochloride 20 MG Oral Tablet [Latuda],1235249,antipsychotic
+3,lurasidone,lurasidone hydrochloride 120 MG Oral Tablet [Latuda],1297357,antipsychotic
+4,lurasidone,lurasidone hydrochloride 60 MG Oral Tablet [Latuda],1431237,antipsychotic
+5,lurasidone,lurasidone hydrochloride 40 MG Oral Tablet,1040031,antipsychotic
+6,lurasidone,lurasidone hydrochloride 80 MG Oral Tablet,1040041,antipsychotic
+7,lurasidone,lurasidone hydrochloride 20 MG Oral Tablet,1235247,antipsychotic
+8,lurasidone,lurasidone hydrochloride 120 MG Oral Tablet,1297278,antipsychotic
+9,lurasidone,lurasidone hydrochloride 60 MG Oral Tablet,1431235,antipsychotic
+0,paliperidone,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe [Invega],1650968,antipsychotic
+1,paliperidone,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega],1650972,antipsychotic
+2,paliperidone,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe [Invega],1650974,antipsychotic
+3,paliperidone,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe [Invega],1650976,antipsychotic
+4,paliperidone,3.5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe [Invega],2570419,antipsychotic
+5,paliperidone,5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe [Invega],2570421,antipsychotic
+6,paliperidone,24 HR paliperidone 3 MG Extended Release Oral Tablet [Invega],686441,antipsychotic
+7,paliperidone,24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega],686443,antipsychotic
+8,paliperidone,24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega],686445,antipsychotic
+9,paliperidone,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],858051,antipsychotic
+10,paliperidone,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],858053,antipsychotic
+11,paliperidone,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],858055,antipsychotic
+12,paliperidone,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],858057,antipsychotic
+13,paliperidone,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe [Invega],858074,antipsychotic
+14,paliperidone,24 HR paliperidone 1.5 MG Extended Release Oral Tablet [Invega],866105,antipsychotic
+15,paliperidone,0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe,1650966,antipsychotic
+16,paliperidone,1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe,1650971,antipsychotic
+17,paliperidone,1.75 ML paliperidone palmitate 312 MG/ML Prefilled Syringe,1650973,antipsychotic
+18,paliperidone,2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe,1650975,antipsychotic
+19,paliperidone,3.5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe,2570418,antipsychotic
+20,paliperidone,5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe,2570420,antipsychotic
+21,paliperidone,24 HR paliperidone 3 MG Extended Release Oral Tablet,672567,antipsychotic
+22,paliperidone,24 HR paliperidone 6 MG Extended Release Oral Tablet,672569,antipsychotic
+23,paliperidone,24 HR paliperidone 9 MG Extended Release Oral Tablet,672571,antipsychotic
+24,paliperidone,0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,858048,antipsychotic
+25,paliperidone,1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,858052,antipsychotic
+26,paliperidone,1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,858054,antipsychotic
+27,paliperidone,0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,858056,antipsychotic
+28,paliperidone,0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe,858073,antipsychotic
+29,paliperidone,24 HR paliperidone 1.5 MG Extended Release Oral Tablet,866103,antipsychotic
+0,perphenazine,perphenazine 0.4 MG/ML Oral Solution,108874,antipsychotic
+1,perphenazine,perphenazine 0.8 MG/ML Oral Solution,108875,antipsychotic
+2,perphenazine,perphenazine 16 MG Oral Tablet,198075,antipsychotic
+3,perphenazine,perphenazine 2 MG Oral Tablet,198076,antipsychotic
+4,perphenazine,perphenazine 4 MG Oral Tablet,198077,antipsychotic
+5,perphenazine,perphenazine 8 MG Oral Tablet,198078,antipsychotic
+6,perphenazine,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet,856706,antipsychotic
+7,perphenazine,amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet,856720,antipsychotic
+8,perphenazine,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet,856797,antipsychotic
+9,perphenazine,amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet,856825,antipsychotic
+10,perphenazine,amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet,856840,antipsychotic
+0,pimozide,pimozide 4 MG Oral Tablet,104748,antipsychotic
+1,pimozide,pimozide 2 MG Oral Tablet,198103,antipsychotic
+2,pimozide,pimozide 1 MG Oral Tablet,312439,antipsychotic
+0,mesoridazine,mesoridazine 100 MG Oral Tablet,311551,antipsychotic
+1,mesoridazine,mesoridazine 10 MG Oral Tablet,311552,antipsychotic
+2,mesoridazine,mesoridazine 25 MG Oral Tablet,311553,antipsychotic
+3,mesoridazine,mesoridazine 50 MG Oral Tablet,311555,antipsychotic
+4,mesoridazine,mesoridazine 25 MG/ML Injectable Solution,315144,antipsychotic
+5,mesoridazine,mesoridazine 10 MG/ML Injectable Solution,389080,antipsychotic
+0,quetiapine,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]) } Pack [Seroquel XR 14-Day Sample Kit],1648647,antipsychotic
+1,quetiapine,{1 (24 HR quetiapine 200 MG Extended Release Oral Tablet) / 11 (24 HR quetiapine 300 MG Extended Release Oral Tablet) / 3 (24 HR quetiapine 50 MG Extended Release Oral Tablet) } Pack,1648646,antipsychotic
+2,quetiapine,quetiapine 25 MG Oral Tablet [Seroquel],153638,antipsychotic
+3,quetiapine,quetiapine 100 MG Oral Tablet [Seroquel],153639,antipsychotic
+4,quetiapine,quetiapine 200 MG Oral Tablet [Seroquel],153640,antipsychotic
+5,quetiapine,quetiapine 300 MG Oral Tablet [Seroquel],284509,antipsychotic
+6,quetiapine,quetiapine 400 MG Oral Tablet [Seroquel],616485,antipsychotic
+7,quetiapine,quetiapine 50 MG Oral Tablet [Seroquel],616489,antipsychotic
+8,quetiapine,24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel],721793,antipsychotic
+9,quetiapine,24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel],721795,antipsychotic
+10,quetiapine,24 HR quetiapine 400 MG Extended Release Oral Tablet [Seroquel],721797,antipsychotic
+11,quetiapine,24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel],853202,antipsychotic
+12,quetiapine,24 HR quetiapine 150 MG Extended Release Oral Tablet [Seroquel],895671,antipsychotic
+13,quetiapine,quetiapine 100 MG Oral Tablet,312743,antipsychotic
+14,quetiapine,quetiapine 25 MG Oral Tablet,312744,antipsychotic
+15,quetiapine,quetiapine 300 MG Oral Tablet,312745,antipsychotic
+16,quetiapine,quetiapine 200 MG Oral Tablet,317174,antipsychotic
+17,quetiapine,quetiapine 150 MG Oral Tablet,389201,antipsychotic
+18,quetiapine,quetiapine 400 MG Oral Tablet,616483,antipsychotic
+19,quetiapine,quetiapine 50 MG Oral Tablet,616487,antipsychotic
+20,quetiapine,24 HR quetiapine 200 MG Extended Release Oral Tablet,721791,antipsychotic
+21,quetiapine,24 HR quetiapine 300 MG Extended Release Oral Tablet,721794,antipsychotic
+22,quetiapine,24 HR quetiapine 400 MG Extended Release Oral Tablet,721796,antipsychotic
+23,quetiapine,24 HR quetiapine 50 MG Extended Release Oral Tablet,853201,antipsychotic
+24,quetiapine,24 HR quetiapine 150 MG Extended Release Oral Tablet,895670,antipsychotic
+0,thiothixene,thiothixene 10 MG Oral Capsule,313361,antipsychotic
+1,thiothixene,thiothixene 1 MG Oral Capsule,313362,antipsychotic
+2,thiothixene,thiothixene 20 MG Oral Capsule,313363,antipsychotic
+3,thiothixene,thiothixene 2 MG Oral Capsule,313364,antipsychotic
+4,thiothixene,thiothixene 5 MG Oral Capsule,313366,antipsychotic
+5,thiothixene,thiothixene 5 MG/ML Oral Solution,313368,antipsychotic
+0,risperidone,risperidone 1 MG Oral Tablet [Risperdal],104781,antipsychotic
+1,risperidone,risperidone 2 MG Oral Tablet [Risperdal],104782,antipsychotic
+2,risperidone,risperidone 3 MG Oral Tablet [Risperdal],104783,antipsychotic
+3,risperidone,risperidone 4 MG Oral Tablet [Risperdal],104784,antipsychotic
+4,risperidone,0.8 ML risperidone 150 MG/ML Prefilled Syringe [Perseris],2055672,antipsychotic
+5,risperidone,0.6 ML risperidone 150 MG/ML Prefilled Syringe [Perseris],2055676,antipsychotic
+6,risperidone,risperidone 1 MG/ML Oral Solution [Risperdal],211489,antipsychotic
+7,risperidone,risperidone 0.25 MG Oral Tablet [Risperdal],262077,antipsychotic
+8,risperidone,risperidone 0.5 MG Oral Tablet [Risperdal],262222,antipsychotic
+9,risperidone,0.28 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636039,antipsychotic
+10,risperidone,0.35 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636042,antipsychotic
+11,risperidone,0.42 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636044,antipsychotic
+12,risperidone,0.56 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636046,antipsychotic
+13,risperidone,0.7 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636048,antipsychotic
+14,risperidone,0.14 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636050,antipsychotic
+15,risperidone,0.21 ML risperidone 357 MG/ML Prefilled Syringe [Uzedy],2636052,antipsychotic
+16,risperidone,risperidone 12.5 MG Injection [Rykindo],2639732,antipsychotic
+17,risperidone,risperidone 25 MG Injection [Rykindo],2639734,antipsychotic
+18,risperidone,risperidone 37.5 MG Injection [Rykindo],2639736,antipsychotic
+19,risperidone,risperidone 50 MG Injection [Rykindo],2639738,antipsychotic
+20,risperidone,risperidone 12.5 MG Injection [Risperdal],706825,antipsychotic
+21,risperidone,risperidone 37.5 MG Injection [Risperdal],706827,antipsychotic
+22,risperidone,risperidone 50 MG Injection [Risperdal],706829,antipsychotic
+23,risperidone,risperidone 25 MG Injection [Risperdal],706831,antipsychotic
+24,risperidone,risperidone 6 MG Oral Tablet,153791,antipsychotic
+25,risperidone,risperidone 1 MG/ML Oral Solution,199387,antipsychotic
+26,risperidone,0.8 ML risperidone 150 MG/ML Prefilled Syringe,2055667,antipsychotic
+27,risperidone,0.6 ML risperidone 150 MG/ML Prefilled Syringe,2055675,antipsychotic
+28,risperidone,0.28 ML risperidone 357 MG/ML Prefilled Syringe,2636033,antipsychotic
+29,risperidone,0.35 ML risperidone 357 MG/ML Prefilled Syringe,2636041,antipsychotic
+30,risperidone,0.42 ML risperidone 357 MG/ML Prefilled Syringe,2636043,antipsychotic
+31,risperidone,0.56 ML risperidone 357 MG/ML Prefilled Syringe,2636045,antipsychotic
+32,risperidone,0.7 ML risperidone 357 MG/ML Prefilled Syringe,2636047,antipsychotic
+33,risperidone,0.14 ML risperidone 357 MG/ML Prefilled Syringe,2636049,antipsychotic
+34,risperidone,0.21 ML risperidone 357 MG/ML Prefilled Syringe,2636051,antipsychotic
+35,risperidone,risperidone 0.25 MG Oral Tablet,312828,antipsychotic
+36,risperidone,risperidone 0.5 MG Oral Tablet,312829,antipsychotic
+37,risperidone,risperidone 1 MG Oral Tablet,312830,antipsychotic
+38,risperidone,risperidone 2 MG Oral Tablet,312831,antipsychotic
+39,risperidone,risperidone 3 MG Oral Tablet,312832,antipsychotic
+40,risperidone,risperidone 4 MG Oral Tablet,314211,antipsychotic
+41,risperidone,risperidone 1 MG Disintegrating Oral Tablet,401953,antipsychotic
+42,risperidone,risperidone 2 MG Disintegrating Oral Tablet,401954,antipsychotic
+43,risperidone,risperidone 25 MG Injection,402010,antipsychotic
+44,risperidone,risperidone 37.5 MG Injection,402011,antipsychotic
+45,risperidone,risperidone 50 MG Injection,402012,antipsychotic
+46,risperidone,risperidone 0.5 MG Disintegrating Oral Tablet,403825,antipsychotic
+47,risperidone,risperidone 3 MG Disintegrating Oral Tablet,616698,antipsychotic
+48,risperidone,risperidone 4 MG Disintegrating Oral Tablet,616705,antipsychotic
+49,risperidone,risperidone 0.25 MG Disintegrating Oral Tablet,645037,antipsychotic
+50,risperidone,risperidone 12.5 MG Injection,706822,antipsychotic
+0,zuclopenthixol,zuclopenthixol 50 MG/ML Injectable Solution,248373,antipsychotic
+1,zuclopenthixol,zuclopenthixol 200 MG/ML Injectable Solution,248374,antipsychotic
+2,zuclopenthixol,zuclopenthixol 10 MG Oral Tablet,248376,antipsychotic
+3,zuclopenthixol,zuclopenthixol 25 MG Oral Tablet,248377,antipsychotic
+4,zuclopenthixol,zuclopenthixol 2 MG Oral Tablet,249811,antipsychotic
+0,flupentixol,flupenthixol 0.5 MG Oral Tablet,245966,antipsychotic
+1,flupentixol,flupenthixol 3 MG Oral Tablet,245967,antipsychotic
+2,flupentixol,flupenthixol 1 MG Oral Tablet,250798,antipsychotic
+0,carbamazepine,carbamazepine 200 MG Oral Tablet [Epitol],211817,mood_stabilizer
+1,carbamazepine,20 ML carbamazepine 10 MG/ML Injection [Carnexiv],2119862,mood_stabilizer
+2,carbamazepine,carbamazepine 20 MG/ML Oral Suspension [Tegretol],308971,mood_stabilizer
+3,carbamazepine,carbamazepine 200 MG Oral Tablet [Tegretol],308972,mood_stabilizer
+4,carbamazepine,carbamazepine 100 MG Chewable Tablet [Tegretol],308974,mood_stabilizer
+5,carbamazepine,12 HR carbamazepine 200 MG Extended Release Oral Capsule [Carbatrol],308977,mood_stabilizer
+6,carbamazepine,12 HR carbamazepine 300 MG Extended Release Oral Capsule [Carbatrol],313931,mood_stabilizer
+7,carbamazepine,12 HR carbamazepine 100 MG Extended Release Oral Capsule [Carbatrol],404742,mood_stabilizer
+8,carbamazepine,12 HR carbamazepine 100 MG Extended Release Oral Capsule [Equetro],672908,mood_stabilizer
+9,carbamazepine,12 HR carbamazepine 300 MG Extended Release Oral Capsule [Equetro],672909,mood_stabilizer
+10,carbamazepine,12 HR carbamazepine 200 MG Extended Release Oral Capsule [Equetro],672910,mood_stabilizer
+11,carbamazepine,12 HR carbamazepine 100 MG Extended Release Oral Tablet [Tegretol],866303,mood_stabilizer
+12,carbamazepine,12 HR carbamazepine 200 MG Extended Release Oral Tablet [Tegretol],866305,mood_stabilizer
+13,carbamazepine,12 HR carbamazepine 400 MG Extended Release Oral Tablet [Tegretol],866307,mood_stabilizer
+14,carbamazepine,carbamazepine 125 MG Rectal Suppository,103941,mood_stabilizer
+15,carbamazepine,carbamazepine 250 MG Rectal Suppository,103942,mood_stabilizer
+16,carbamazepine,carbamazepine 400 MG Oral Tablet,141952,mood_stabilizer
+17,carbamazepine,carbamazepine 100 MG Oral Tablet,197441,mood_stabilizer
+18,carbamazepine,carbamazepine 200 MG Chewable Tablet,197442,mood_stabilizer
+19,carbamazepine,12 HR carbamazepine 100 MG Extended Release Oral Tablet,199378,mood_stabilizer
+20,carbamazepine,12 HR carbamazepine 300 MG Extended Release Oral Capsule,200131,mood_stabilizer
+21,carbamazepine,12 HR carbamazepine 200 MG Extended Release Oral Capsule,200133,mood_stabilizer
+22,carbamazepine,20 ML carbamazepine 10 MG/ML Injection,2119860,mood_stabilizer
+23,carbamazepine,carbamazepine 100 MG Chewable Tablet,308973,mood_stabilizer
+24,carbamazepine,carbamazepine 20 MG/ML Oral Suspension,308976,mood_stabilizer
+25,carbamazepine,carbamazepine 200 MG Oral Tablet,308979,mood_stabilizer
+26,carbamazepine,12 HR carbamazepine 100 MG Extended Release Oral Capsule,388311,mood_stabilizer
+27,carbamazepine,12 HR carbamazepine 200 MG Extended Release Oral Tablet,402505,mood_stabilizer
+28,carbamazepine,12 HR carbamazepine 400 MG Extended Release Oral Tablet,402506,mood_stabilizer
+29,carbamazepine,carbamazepine 300 MG Extended Release Oral Tablet,434285,mood_stabilizer
+30,carbamazepine,carbamazepine 150 MG Extended Release Oral Tablet,434286,mood_stabilizer
+31,carbamazepine,carbamazepine 600 MG Extended Release Oral Tablet,434287,mood_stabilizer
+0,divalproex,valproic acid 50 MG/ML Oral Solution [Depakene],1099689,mood_stabilizer
+1,divalproex,5 ML valproic acid 100 MG/ML Injection,1099648,mood_stabilizer
+2,divalproex,valproic acid 125 MG Delayed Release Oral Capsule,1099656,mood_stabilizer
+3,divalproex,valproic acid 250 MG Delayed Release Oral Capsule,1099670,mood_stabilizer
+4,divalproex,valproic acid 250 MG Oral Capsule,1099681,mood_stabilizer
+5,divalproex,valproic acid 50 MG/ML Oral Solution,1099687,mood_stabilizer
+6,divalproex,valproic acid 500 MG Delayed Release Oral Capsule,1099691,mood_stabilizer
+7,divalproex,valproic acid 100 MG Oral Tablet,1099703,mood_stabilizer
+8,divalproex,valproic acid 150 MG Delayed Release Oral Capsule,1099766,mood_stabilizer
+9,divalproex,valproic acid 200 MG Delayed Release Oral Tablet,1099772,mood_stabilizer
+10,divalproex,valproic acid 40 MG/ML Oral Solution,1099853,mood_stabilizer
+0,lamotrigine,"{14 (lamotrigine 100 MG Oral Tablet [Subvenite]) / 84 (lamotrigine 25 MG Oral Tablet [Subvenite]) } Pack [Subvenite Green (for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone and Not Taking Valproate)]",2003797,mood_stabilizer
+1,lamotrigine,"{7 (lamotrigine 100 MG Oral Tablet [Subvenite]) / 42 (lamotrigine 25 MG Oral Tablet [Subvenite]) } Pack [Subvenite Orange (for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate)]",2003798,mood_stabilizer
+2,lamotrigine,{35 (lamotrigine 25 MG Oral Tablet [Subvenite]) } Pack [Subvenite Blue (for Patients Taking Valproate)],2003799,mood_stabilizer
+3,lamotrigine,{35 (lamotrigine 25 MG Oral Tablet [Lamictal]) } Pack [Lamictal Blue (For Patients Taking Valproate)],795772,mood_stabilizer
+4,lamotrigine,"{7 (lamotrigine 100 MG Oral Tablet [Lamictal]) / 42 (lamotrigine 25 MG Oral Tablet [Lamictal]) } Pack [Lamictal Orange (For Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin and Not Taking Valproate)]",795774,mood_stabilizer
+5,lamotrigine,"{14 (lamotrigine 100 MG Oral Tablet [Lamictal]) / 84 (lamotrigine 25 MG Oral Tablet [Lamictal]) } Pack [Lamictal Green (For Patients Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Rifampin and Not Taking Valproate)]",795778,mood_stabilizer
+6,lamotrigine,{21 (lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]) / 7 (lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]) } Pack [Lamictal ODT Blue Patient Titration Kit (for Patients Taking Valproate)],851749,mood_stabilizer
+7,lamotrigine,{7 (lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]) / 14 (lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]) / 14 (lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]) } Pack [Lamictal ODT Orange Patient Titration Kit (For Patients Not Taking Enzyme-Inducing Drugs or Valproate)],851751,mood_stabilizer
+8,lamotrigine,{14 (lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]) / 42 (lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]) } Pack [Lamictal ODT Green Titration Kit (for Patients Taking Enzyme-Inducing Drugs and Not Taking Valproate)],851753,mood_stabilizer
+9,lamotrigine,"{14 (24 HR lamotrigine 100 MG Extended Release Oral Tablet [Lamictal]) / 7 (24 HR lamotrigine 200 MG Extended Release Oral Tablet [Lamictal]) / 14 (24 HR lamotrigine 50 MG Extended Release Oral Tablet [Lamictal]) } Pack [Lamictal XR Green Patient Titration Kit (for Patients Taking Carbamazepine, Phenytoin, Phenobarbital, or Primidone, and Not Taking Valproate)]",900866,mood_stabilizer
+10,lamotrigine,"{7 (24 HR lamotrigine 100 MG Extended Release Oral Tablet [Lamictal]) / 14 (24 HR lamotrigine 25 MG Extended Release Oral Tablet [Lamictal]) / 14 (24 HR lamotrigine 50 MG Extended Release Oral Tablet [Lamictal]) } Pack [Lamictal XR Orange Patient Titration Kit (for Patients Not Taking Carbamazepine, Phenytoin, Phenobarbital, Primidone, or Valproate)]",900891,mood_stabilizer
+11,lamotrigine,{21 (24 HR lamotrigine 25 MG Extended Release Oral Tablet [Lamictal]) / 7 (24 HR lamotrigine 50 MG Extended Release Oral Tablet [Lamictal]) } Pack [Lamictal XR Blue Patient Titration Kit (for Patients Taking Valproate)],900984,mood_stabilizer
+12,lamotrigine,{35 (lamotrigine 25 MG Oral Tablet) } Pack,751139,mood_stabilizer
+13,lamotrigine,{7 (lamotrigine 100 MG Oral Tablet) / 42 (lamotrigine 25 MG Oral Tablet) } Pack,751563,mood_stabilizer
+14,lamotrigine,{14 (lamotrigine 100 MG Oral Tablet) / 84 (lamotrigine 25 MG Oral Tablet) } Pack,753451,mood_stabilizer
+15,lamotrigine,{21 (lamotrigine 25 MG Disintegrating Oral Tablet) / 7 (lamotrigine 50 MG Disintegrating Oral Tablet) } Pack,851748,mood_stabilizer
+16,lamotrigine,{7 (lamotrigine 100 MG Disintegrating Oral Tablet) / 14 (lamotrigine 25 MG Disintegrating Oral Tablet) / 14 (lamotrigine 50 MG Disintegrating Oral Tablet) } Pack,851750,mood_stabilizer
+17,lamotrigine,{14 (lamotrigine 100 MG Disintegrating Oral Tablet) / 42 (lamotrigine 50 MG Disintegrating Oral Tablet) } Pack,851752,mood_stabilizer
+18,lamotrigine,{14 (24 HR lamotrigine 100 MG Extended Release Oral Tablet) / 7 (24 HR lamotrigine 200 MG Extended Release Oral Tablet) / 14 (24 HR lamotrigine 50 MG Extended Release Oral Tablet) } Pack,900865,mood_stabilizer
+19,lamotrigine,{7 (24 HR lamotrigine 100 MG Extended Release Oral Tablet) / 14 (24 HR lamotrigine 25 MG Extended Release Oral Tablet) / 14 (24 HR lamotrigine 50 MG Extended Release Oral Tablet) } Pack,900890,mood_stabilizer
+20,lamotrigine,{21 (24 HR lamotrigine 25 MG Extended Release Oral Tablet) / 7 (24 HR lamotrigine 50 MG Extended Release Oral Tablet) } Pack,900983,mood_stabilizer
+21,lamotrigine,lamotrigine 100 MG Oral Tablet [Lamictal],105018,mood_stabilizer
+22,lamotrigine,lamotrigine 25 MG Oral Tablet [Lamictal],105019,mood_stabilizer
+23,lamotrigine,lamotrigine 200 MG Oral Tablet [Lamictal],108782,mood_stabilizer
+24,lamotrigine,24 HR lamotrigine 300 MG Extended Release Oral Tablet [Lamictal],1098610,mood_stabilizer
+25,lamotrigine,24 HR lamotrigine 250 MG Extended Release Oral Tablet [Lamictal],1146692,mood_stabilizer
+26,lamotrigine,lamotrigine 150 MG Oral Tablet [Subvenite],2001506,mood_stabilizer
+27,lamotrigine,lamotrigine 25 MG Oral Tablet [Subvenite],2001508,mood_stabilizer
+28,lamotrigine,lamotrigine 100 MG Oral Tablet [Subvenite],2003796,mood_stabilizer
+29,lamotrigine,lamotrigine 200 MG Oral Tablet [Subvenite],2003801,mood_stabilizer
+30,lamotrigine,lamotrigine 5 MG Chewable Tablet [Lamictal],201239,mood_stabilizer
+31,lamotrigine,lamotrigine 25 MG Chewable Tablet [Lamictal],201240,mood_stabilizer
+32,lamotrigine,lamotrigine 150 MG Oral Tablet [Lamictal],206201,mood_stabilizer
+33,lamotrigine,lamotrigine 2 MG Chewable Tablet [Lamictal],542426,mood_stabilizer
+34,lamotrigine,lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal],849049,mood_stabilizer
+35,lamotrigine,lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal],849050,mood_stabilizer
+36,lamotrigine,lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal],849051,mood_stabilizer
+37,lamotrigine,lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal],849052,mood_stabilizer
+38,lamotrigine,24 HR lamotrigine 100 MG Extended Release Oral Tablet [Lamictal],900145,mood_stabilizer
+39,lamotrigine,24 HR lamotrigine 200 MG Extended Release Oral Tablet [Lamictal],900157,mood_stabilizer
+40,lamotrigine,24 HR lamotrigine 25 MG Extended Release Oral Tablet [Lamictal],900165,mood_stabilizer
+41,lamotrigine,24 HR lamotrigine 50 MG Extended Release Oral Tablet [Lamictal],900169,mood_stabilizer
+42,lamotrigine,lamotrigine 100 MG Disintegrating Oral Tablet,103968,mood_stabilizer
+43,lamotrigine,24 HR lamotrigine 300 MG Extended Release Oral Tablet,1098608,mood_stabilizer
+44,lamotrigine,24 HR lamotrigine 250 MG Extended Release Oral Tablet,1146690,mood_stabilizer
+45,lamotrigine,lamotrigine 100 MG Oral Tablet,198427,mood_stabilizer
+46,lamotrigine,lamotrigine 150 MG Oral Tablet,198428,mood_stabilizer
+47,lamotrigine,lamotrigine 200 MG Oral Tablet,198429,mood_stabilizer
+48,lamotrigine,lamotrigine 25 MG Disintegrating Oral Tablet,198430,mood_stabilizer
+49,lamotrigine,lamotrigine 50 MG Oral Tablet,199322,mood_stabilizer
+50,lamotrigine,lamotrigine 250 MG Oral Tablet,249329,mood_stabilizer
+51,lamotrigine,lamotrigine 50 MG Disintegrating Oral Tablet,252478,mood_stabilizer
+52,lamotrigine,lamotrigine 200 MG Disintegrating Oral Tablet,252479,mood_stabilizer
+53,lamotrigine,lamotrigine 25 MG Oral Tablet,282401,mood_stabilizer
+54,lamotrigine,lamotrigine 25 MG Chewable Tablet,311264,mood_stabilizer
+55,lamotrigine,lamotrigine 5 MG Chewable Tablet,311265,mood_stabilizer
+56,lamotrigine,lamotrigine 2 MG Chewable Tablet,349010,mood_stabilizer
+57,lamotrigine,lamotrigine 2 MG Oral Tablet,391875,mood_stabilizer
+58,lamotrigine,24 HR lamotrigine 100 MG Extended Release Oral Tablet,850087,mood_stabilizer
+59,lamotrigine,24 HR lamotrigine 50 MG Extended Release Oral Tablet,850091,mood_stabilizer
+60,lamotrigine,24 HR lamotrigine 200 MG Extended Release Oral Tablet,900156,mood_stabilizer
+61,lamotrigine,24 HR lamotrigine 25 MG Extended Release Oral Tablet,900164,mood_stabilizer
+0,lithium,lithium orotate 5 MG Oral Capsule,846386,mood_stabilizer
+0,valproate,24 HR divalproex sodium 250 MG Extended Release Oral Tablet [Depakote],1099565,mood_stabilizer
+1,valproate,24 HR divalproex sodium 500 MG Extended Release Oral Tablet [Depakote],1099571,mood_stabilizer
+2,valproate,divalproex sodium 125 MG Delayed Release Oral Capsule [Depakote],1099598,mood_stabilizer
+3,valproate,divalproex sodium 125 MG Delayed Release Oral Tablet [Depakote],1099626,mood_stabilizer
+4,valproate,divalproex sodium 250 MG Delayed Release Oral Tablet [Depakote],1099679,mood_stabilizer
+5,valproate,valproic acid 50 MG/ML Oral Solution [Depakene],1099689,mood_stabilizer
+6,valproate,divalproex sodium 500 MG Delayed Release Oral Tablet [Depakote],1099871,mood_stabilizer
+7,valproate,24 HR divalproex sodium 250 MG Extended Release Oral Tablet,1099563,mood_stabilizer
+8,valproate,24 HR divalproex sodium 500 MG Extended Release Oral Tablet,1099569,mood_stabilizer
+9,valproate,divalproex sodium 125 MG Delayed Release Oral Capsule,1099596,mood_stabilizer
+10,valproate,divalproex sodium 125 MG Delayed Release Oral Tablet,1099625,mood_stabilizer
+11,valproate,5 ML valproic acid 100 MG/ML Injection,1099648,mood_stabilizer
+12,valproate,valproic acid 125 MG Delayed Release Oral Capsule,1099656,mood_stabilizer
+13,valproate,valproic acid 250 MG Delayed Release Oral Capsule,1099670,mood_stabilizer
+14,valproate,divalproex sodium 250 MG Delayed Release Oral Tablet,1099678,mood_stabilizer
+15,valproate,valproic acid 250 MG Oral Capsule,1099681,mood_stabilizer
+16,valproate,valproic acid 50 MG/ML Oral Solution,1099687,mood_stabilizer
+17,valproate,valproic acid 500 MG Delayed Release Oral Capsule,1099691,mood_stabilizer
+18,valproate,valproic acid 100 MG Oral Tablet,1099703,mood_stabilizer
+19,valproate,valproic acid 150 MG Delayed Release Oral Capsule,1099766,mood_stabilizer
+20,valproate,valproic acid 200 MG Delayed Release Oral Tablet,1099772,mood_stabilizer
+21,valproate,divalproex sodium 300 MG Delayed Release Oral Capsule,1099787,mood_stabilizer
+22,valproate,valproic acid 40 MG/ML Oral Solution,1099853,mood_stabilizer
+23,valproate,divalproex sodium 500 MG Delayed Release Oral Tablet,1099870,mood_stabilizer
+0,gabapentin,{9 (Once-Daily gabapentin 300 MG Oral Tablet [Gralise]) / 24 (Once-Daily gabapentin 600 MG Oral Tablet [Gralise]) } Pack [Gralise Sample Pack],2398512,mood_stabilizer
+1,gabapentin,{9 (Once-Daily gabapentin 300 MG Oral Tablet) / 24 (Once-Daily gabapentin 600 MG Oral Tablet) } Pack,2398511,mood_stabilizer
+2,gabapentin,gabapentin 100 MG Oral Capsule [Neurontin],105028,mood_stabilizer
+3,gabapentin,gabapentin 300 MG Oral Capsule [Neurontin],105029,mood_stabilizer
+4,gabapentin,gabapentin 400 MG Oral Capsule [Neurontin],105030,mood_stabilizer
+5,gabapentin,gabapentin enacarbil 600 MG Extended Release Oral Tablet [Horizant],1101339,mood_stabilizer
+6,gabapentin,Once-Daily gabapentin 300 MG Oral Tablet [Gralise],1115012,mood_stabilizer
+7,gabapentin,Once-Daily gabapentin 600 MG Oral Tablet [Gralise],1115013,mood_stabilizer
+8,gabapentin,gabapentin enacarbil 300 MG Extended Release Oral Tablet [Horizant],1482821,mood_stabilizer
+9,gabapentin,gabapentin 600 MG Oral Tablet [Neurontin],261280,mood_stabilizer
+10,gabapentin,gabapentin 800 MG Oral Tablet [Neurontin],261281,mood_stabilizer
+11,gabapentin,Once-Daily gabapentin 900 MG Oral Tablet [Gralise],2634745,mood_stabilizer
+12,gabapentin,Once-Daily gabapentin 450 MG Oral Tablet [Gralise],2634749,mood_stabilizer
+13,gabapentin,Once-Daily gabapentin 750 MG Oral Tablet [Gralise],2634753,mood_stabilizer
+14,gabapentin,gabapentin 50 MG/ML Oral Solution [Neurontin],351973,mood_stabilizer
+15,gabapentin,gabapentin enacarbil 600 MG Extended Release Oral Tablet,1101338,mood_stabilizer
+16,gabapentin,gabapentin enacarbil 300 MG Extended Release Oral Tablet,1482820,mood_stabilizer
+17,gabapentin,Once-Daily gabapentin 300 MG Oral Tablet,1806380,mood_stabilizer
+18,gabapentin,Once-Daily gabapentin 600 MG Oral Tablet,1806382,mood_stabilizer
+19,gabapentin,Once-Daily gabapentin 900 MG Oral Tablet,2634743,mood_stabilizer
+20,gabapentin,Once-Daily gabapentin 450 MG Oral Tablet,2634747,mood_stabilizer
+21,gabapentin,Once-Daily gabapentin 750 MG Oral Tablet,2634751,mood_stabilizer
+22,gabapentin,gabapentin 50 MG/ML Oral Solution,283523,mood_stabilizer
+23,gabapentin,gabapentin 100 MG Oral Capsule,310430,mood_stabilizer
+24,gabapentin,gabapentin 300 MG Oral Capsule,310431,mood_stabilizer
+25,gabapentin,gabapentin 400 MG Oral Capsule,310432,mood_stabilizer
+26,gabapentin,gabapentin 600 MG Oral Tablet,310433,mood_stabilizer
+27,gabapentin,gabapentin 800 MG Oral Tablet,310434,mood_stabilizer
+0,lacosamide,{14 (lacosamide 100 MG Oral Tablet [Vimpat]) / 14 (lacosamide 50 MG Oral Tablet [Vimpat]) } Pack [Vimpat 2 Week Starter Kit],881272,mood_stabilizer
+1,lacosamide,{14 (lacosamide 100 MG Oral Tablet) / 14 (lacosamide 50 MG Oral Tablet) } Pack,881271,mood_stabilizer
+2,lacosamide,24 HR lacosamide 100 MG Extended Release Oral Capsule [Motpoly],2637025,mood_stabilizer
+3,lacosamide,24 HR lacosamide 150 MG Extended Release Oral Capsule [Motpoly],2637030,mood_stabilizer
+4,lacosamide,24 HR lacosamide 200 MG Extended Release Oral Capsule [Motpoly],2637035,mood_stabilizer
+5,lacosamide,20 ML lacosamide 10 MG/ML Injection [Vimpat],809984,mood_stabilizer
+6,lacosamide,lacosamide 100 MG Oral Tablet [Vimpat],809990,mood_stabilizer
+7,lacosamide,lacosamide 150 MG Oral Tablet [Vimpat],809994,mood_stabilizer
+8,lacosamide,lacosamide 200 MG Oral Tablet [Vimpat],809998,mood_stabilizer
+9,lacosamide,lacosamide 50 MG Oral Tablet [Vimpat],810002,mood_stabilizer
+10,lacosamide,lacosamide 10 MG/ML Oral Solution [Vimpat],995156,mood_stabilizer
+11,lacosamide,24 HR lacosamide 100 MG Extended Release Oral Capsule,2637018,mood_stabilizer
+12,lacosamide,24 HR lacosamide 150 MG Extended Release Oral Capsule,2637027,mood_stabilizer
+13,lacosamide,24 HR lacosamide 200 MG Extended Release Oral Capsule,2637032,mood_stabilizer
+14,lacosamide,20 ML lacosamide 10 MG/ML Injection,809974,mood_stabilizer
+15,lacosamide,lacosamide 100 MG Oral Tablet,809987,mood_stabilizer
+16,lacosamide,lacosamide 150 MG Oral Tablet,809992,mood_stabilizer
+17,lacosamide,lacosamide 200 MG Oral Tablet,809996,mood_stabilizer
+18,lacosamide,lacosamide 50 MG Oral Tablet,810000,mood_stabilizer
+19,lacosamide,lacosamide 10 MG/ML Oral Solution,993856,mood_stabilizer
+0,topiramate,24 HR phentermine 7.5 MG / topiramate 46 MG Extended Release Oral Capsule [Qsymia],1302833,mood_stabilizer
+1,topiramate,24 HR phentermine 3.75 MG / topiramate 23 MG Extended Release Oral Capsule [Qsymia],1302845,mood_stabilizer
+2,topiramate,24 HR phentermine 15 MG / topiramate 92 MG Extended Release Oral Capsule [Qsymia],1302856,mood_stabilizer
+3,topiramate,24 HR phentermine 11.25 MG / topiramate 69 MG Extended Release Oral Capsule [Qsymia],1313061,mood_stabilizer
+4,topiramate,24 HR topiramate 50 MG Extended Release Oral Capsule [Trokendi],1436245,mood_stabilizer
+5,topiramate,24 HR topiramate 25 MG Extended Release Oral Capsule [Trokendi],1437280,mood_stabilizer
+6,topiramate,24 HR topiramate 100 MG Extended Release Oral Capsule [Trokendi],1437285,mood_stabilizer
+7,topiramate,24 HR topiramate 200 MG Extended Release Oral Capsule [Trokendi],1437290,mood_stabilizer
+8,topiramate,Sprinkle 24 HR topiramate 100 MG Extended Release Oral Capsule [Qudexy],1494766,mood_stabilizer
+9,topiramate,Sprinkle 24 HR topiramate 150 MG Extended Release Oral Capsule [Qudexy],1494771,mood_stabilizer
+10,topiramate,Sprinkle 24 HR topiramate 200 MG Extended Release Oral Capsule [Qudexy],1494775,mood_stabilizer
+11,topiramate,Sprinkle 24 HR topiramate 25 MG Extended Release Oral Capsule [Qudexy],1494778,mood_stabilizer
+12,topiramate,Sprinkle 24 HR topiramate 50 MG Extended Release Oral Capsule [Qudexy],1494781,mood_stabilizer
+13,topiramate,topiramate 50 MG Oral Tablet [Topamax],151227,mood_stabilizer
+14,topiramate,topiramate 100 MG Oral Tablet [Topamax],151228,mood_stabilizer
+15,topiramate,topiramate 200 MG Oral Tablet [Topamax],151229,mood_stabilizer
+16,topiramate,topiramate 25 MG Oral Tablet [Topamax],152855,mood_stabilizer
+17,topiramate,topiramate 25 MG/ML Oral Solution [Eprontia],2586433,mood_stabilizer
+18,topiramate,topiramate 15 MG Oral Capsule [Topamax],845478,mood_stabilizer
+19,topiramate,topiramate 25 MG Oral Capsule [Topamax],845479,mood_stabilizer
+20,topiramate,24 HR phentermine 7.5 MG / topiramate 46 MG Extended Release Oral Capsule,1302827,mood_stabilizer
+21,topiramate,24 HR phentermine 3.75 MG / topiramate 23 MG Extended Release Oral Capsule,1302839,mood_stabilizer
+22,topiramate,24 HR phentermine 15 MG / topiramate 92 MG Extended Release Oral Capsule,1302850,mood_stabilizer
+23,topiramate,24 HR phentermine 11.25 MG / topiramate 69 MG Extended Release Oral Capsule,1313059,mood_stabilizer
+24,topiramate,24 HR topiramate 50 MG Extended Release Oral Capsule,1436239,mood_stabilizer
+25,topiramate,24 HR topiramate 25 MG Extended Release Oral Capsule,1437278,mood_stabilizer
+26,topiramate,24 HR topiramate 100 MG Extended Release Oral Capsule,1437283,mood_stabilizer
+27,topiramate,24 HR topiramate 200 MG Extended Release Oral Capsule,1437288,mood_stabilizer
+28,topiramate,Sprinkle 24 HR topiramate 150 MG Extended Release Oral Capsule,1494769,mood_stabilizer
+29,topiramate,topiramate 50 MG Oral Tablet,151226,mood_stabilizer
+30,topiramate,Sprinkle 24 HR topiramate 200 MG Extended Release Oral Capsule,1812419,mood_stabilizer
+31,topiramate,Sprinkle 24 HR topiramate 25 MG Extended Release Oral Capsule,1812421,mood_stabilizer
+32,topiramate,Sprinkle 24 HR topiramate 50 MG Extended Release Oral Capsule,1812425,mood_stabilizer
+33,topiramate,Sprinkle 24 HR topiramate 100 MG Extended Release Oral Capsule,1812427,mood_stabilizer
+34,topiramate,topiramate 25 MG Oral Tablet,199888,mood_stabilizer
+35,topiramate,topiramate 100 MG Oral Tablet,199889,mood_stabilizer
+36,topiramate,topiramate 200 MG Oral Tablet,199890,mood_stabilizer
+37,topiramate,topiramate 25 MG Oral Capsule,205315,mood_stabilizer
+38,topiramate,topiramate 15 MG Oral Capsule,205316,mood_stabilizer
+39,topiramate,topiramate 50 MG Oral Capsule,252413,mood_stabilizer
+40,topiramate,topiramate 25 MG/ML Oral Solution,2586427,mood_stabilizer
+0,zonisamide,zonisamide 20 MG/ML Oral Suspension [Zonisade],2606788,mood_stabilizer
+1,zonisamide,zonisamide 100 MG Oral Capsule [Zonegran],284408,mood_stabilizer
+2,zonisamide,zonisamide 25 MG Oral Capsule [Zonegran],404725,mood_stabilizer
+3,zonisamide,zonisamide 100 MG Oral Tablet,259224,mood_stabilizer
+4,zonisamide,zonisamide 20 MG/ML Oral Suspension,2606782,mood_stabilizer
+5,zonisamide,zonisamide 100 MG Oral Capsule,314285,mood_stabilizer
+6,zonisamide,zonisamide 25 MG Oral Capsule,403966,mood_stabilizer
+7,zonisamide,zonisamide 50 MG Oral Capsule,403967,mood_stabilizer
+0,riluzole,riluzole 50 MG Oral Tablet [Rilutek],152915,mood_stabilizer
+1,riluzole,riluzole 5 MG/ML Oral Suspension [Tiglutik],2059266,mood_stabilizer
+2,riluzole,riluzole 50 MG Oral Film [Exservan],2267572,mood_stabilizer
+3,riluzole,riluzole 5 MG/ML Oral Suspension [Teglutik],2675565,mood_stabilizer
+4,riluzole,riluzole 50 MG Oral Tablet,199206,mood_stabilizer
+5,riluzole,riluzole 5 MG/ML Oral Suspension,2058147,mood_stabilizer
+6,riluzole,riluzole 50 MG Oral Film,2265862,mood_stabilizer
+0,oxcarbazepine,24 HR oxcarbazepine 150 MG Extended Release Oral Tablet [Oxtellar],1365660,mood_stabilizer
+1,oxcarbazepine,24 HR oxcarbazepine 300 MG Extended Release Oral Tablet [Oxtellar],1365847,mood_stabilizer
+2,oxcarbazepine,24 HR oxcarbazepine 600 MG Extended Release Oral Tablet [Oxtellar],1365850,mood_stabilizer
+3,oxcarbazepine,oxcarbazepine 150 MG Oral Tablet [Trileptal],261356,mood_stabilizer
+4,oxcarbazepine,oxcarbazepine 300 MG Oral Tablet [Trileptal],261360,mood_stabilizer
+5,oxcarbazepine,oxcarbazepine 600 MG Oral Tablet [Trileptal],262090,mood_stabilizer
+6,oxcarbazepine,oxcarbazepine 60 MG/ML Oral Suspension [Trileptal],351992,mood_stabilizer
+7,oxcarbazepine,24 HR oxcarbazepine 150 MG Extended Release Oral Tablet,1365653,mood_stabilizer
+8,oxcarbazepine,24 HR oxcarbazepine 300 MG Extended Release Oral Tablet,1365842,mood_stabilizer
+9,oxcarbazepine,24 HR oxcarbazepine 600 MG Extended Release Oral Tablet,1365844,mood_stabilizer
+10,oxcarbazepine,oxcarbazepine 60 MG/ML Oral Suspension,283536,mood_stabilizer
+11,oxcarbazepine,oxcarbazepine 150 MG Oral Tablet,312136,mood_stabilizer
+12,oxcarbazepine,oxcarbazepine 300 MG Oral Tablet,312137,mood_stabilizer
+13,oxcarbazepine,oxcarbazepine 600 MG Oral Tablet,312138,mood_stabilizer
+0,valproic acid,valproic acid 50 MG/ML Oral Solution [Depakene],1099689,mood_stabilizer
+1,valproic acid,5 ML valproic acid 100 MG/ML Injection,1099648,mood_stabilizer
+2,valproic acid,valproic acid 125 MG Delayed Release Oral Capsule,1099656,mood_stabilizer
+3,valproic acid,valproic acid 250 MG Delayed Release Oral Capsule,1099670,mood_stabilizer
+4,valproic acid,valproic acid 250 MG Oral Capsule,1099681,mood_stabilizer
+5,valproic acid,valproic acid 50 MG/ML Oral Solution,1099687,mood_stabilizer
+6,valproic acid,valproic acid 500 MG Delayed Release Oral Capsule,1099691,mood_stabilizer
+7,valproic acid,valproic acid 100 MG Oral Tablet,1099703,mood_stabilizer
+8,valproic acid,valproic acid 150 MG Delayed Release Oral Capsule,1099766,mood_stabilizer
+9,valproic acid,valproic acid 200 MG Delayed Release Oral Tablet,1099772,mood_stabilizer
+10,valproic acid,valproic acid 40 MG/ML Oral Solution,1099853,mood_stabilizer
+0,sertraline,sertraline 100 MG Oral Tablet [Zoloft],208149,ssri
+1,sertraline,sertraline 50 MG Oral Tablet [Zoloft],208161,ssri
+2,sertraline,sertraline 25 MG Oral Tablet [Zoloft],212233,ssri
+3,sertraline,sertraline 20 MG/ML Oral Solution [Zoloft],861066,ssri
+4,sertraline,sertraline 200 MG Oral Capsule,251201,ssri
+5,sertraline,sertraline 100 MG Oral Tablet,312938,ssri
+6,sertraline,sertraline 25 MG Oral Tablet,312940,ssri
+7,sertraline,sertraline 50 MG Oral Tablet,312941,ssri
+8,sertraline,sertraline 150 MG Oral Capsule,410584,ssri
+9,sertraline,sertraline 20 MG/ML Oral Solution,861064,ssri
+0,citalopram,citalopram 20 MG Oral Tablet [Celexa],213344,ssri
+1,citalopram,citalopram 40 MG Oral Tablet [Celexa],213345,ssri
+2,citalopram,citalopram 10 MG Oral Tablet [Celexa],284591,ssri
+3,citalopram,citalopram 20 MG Oral Tablet,200371,ssri
+4,citalopram,citalopram 30 MG Oral Capsule,2591786,ssri
+5,citalopram,citalopram 10 MG Oral Tablet,283672,ssri
+6,citalopram,citalopram 2 MG/ML Oral Solution,309313,ssri
+7,citalopram,citalopram 40 MG Oral Tablet,309314,ssri
+8,citalopram,citalopram 40 MG/ML Oral Solution,389202,ssri
+9,citalopram,citalopram 10 MG Disintegrating Oral Tablet,645289,ssri
+10,citalopram,citalopram 20 MG Disintegrating Oral Tablet,645290,ssri
+11,citalopram,citalopram 40 MG Disintegrating Oral Tablet,645291,ssri
+0,escitalopram,escitalopram 10 MG Oral Tablet [Lexapro],352272,ssri
+1,escitalopram,escitalopram 20 MG Oral Tablet [Lexapro],352273,ssri
+2,escitalopram,escitalopram 5 MG Oral Tablet [Lexapro],404408,ssri
+3,escitalopram,escitalopram 10 MG Oral Tablet,349332,ssri
+4,escitalopram,escitalopram 5 MG Oral Tablet,351249,ssri
+5,escitalopram,escitalopram 20 MG Oral Tablet,351250,ssri
+6,escitalopram,escitalopram 1 MG/ML Oral Solution,351285,ssri
+0,fluoxetine,fluoxetine 20 MG Oral Capsule [Prozac],104849,ssri
+1,fluoxetine,fluoxetine 10 MG Oral Capsule [Prozac],205535,ssri
+2,fluoxetine,fluoxetine 40 MG Oral Capsule [Prozac],261287,ssri
+3,fluoxetine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule [Symbyax],725064,ssri
+4,fluoxetine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule [Symbyax],725068,ssri
+5,fluoxetine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule [Symbyax],725072,ssri
+6,fluoxetine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule [Symbyax],725080,ssri
+7,fluoxetine,fluoxetine hydrochloride 8 MG Chewable Tablet [RECONCILE],826101,ssri
+8,fluoxetine,fluoxetine hydrochloride 64 MG Chewable Tablet [RECONCILE],826105,ssri
+9,fluoxetine,fluoxetine hydrochloride 16 MG Chewable Tablet [RECONCILE],902716,ssri
+10,fluoxetine,fluoxetine hydrochloride 32 MG Chewable Tablet [RECONCILE],902720,ssri
+11,fluoxetine,fluoxetine 60 MG Oral Tablet,1190110,ssri
+12,fluoxetine,fluoxetine 60 MG Oral Capsule,151260,ssri
+13,fluoxetine,fluoxetine 20 MG Oral Tablet,248642,ssri
+14,fluoxetine,PMDD fluoxetine 10 MG Oral Tablet,2532159,ssri
+15,fluoxetine,PMDD fluoxetine 20 MG Oral Tablet,2532163,ssri
+16,fluoxetine,fluoxetine 10 MG Oral Capsule,310384,ssri
+17,fluoxetine,fluoxetine 20 MG Oral Capsule,310385,ssri
+18,fluoxetine,fluoxetine 4 MG/ML Oral Solution,310386,ssri
+19,fluoxetine,fluoxetine 40 MG Oral Capsule,313989,ssri
+20,fluoxetine,fluoxetine 10 MG Oral Tablet,313990,ssri
+21,fluoxetine,fluoxetine 90 MG Delayed Release Oral Capsule,313995,ssri
+22,fluoxetine,fluoxetine 25 MG / olanzapine 6 MG Oral Capsule,403969,ssri
+23,fluoxetine,fluoxetine 25 MG / olanzapine 12 MG Oral Capsule,403970,ssri
+24,fluoxetine,fluoxetine 50 MG / olanzapine 12 MG Oral Capsule,403971,ssri
+25,fluoxetine,fluoxetine 50 MG / olanzapine 6 MG Oral Capsule,403972,ssri
+26,fluoxetine,fluoxetine 25 MG / olanzapine 3 MG Oral Capsule,721787,ssri
+27,fluoxetine,fluoxetine hydrochloride 8 MG Chewable Tablet,826098,ssri
+28,fluoxetine,fluoxetine hydrochloride 64 MG Chewable Tablet,826103,ssri
+29,fluoxetine,fluoxetine hydrochloride 16 MG Chewable Tablet,902714,ssri
+30,fluoxetine,fluoxetine hydrochloride 32 MG Chewable Tablet,902718,ssri
+0,fluvoxamine,24 HR fluvoxamine maleate 100 MG Extended Release Oral Capsule,903873,ssri
+1,fluvoxamine,24 HR fluvoxamine maleate 150 MG Extended Release Oral Capsule,903879,ssri
+2,fluvoxamine,fluvoxamine maleate 100 MG Oral Tablet,903884,ssri
+3,fluvoxamine,fluvoxamine maleate 25 MG Oral Tablet,903887,ssri
+4,fluvoxamine,fluvoxamine maleate 50 MG Oral Tablet,903891,ssri
+0,paroxetine,paroxetine mesylate 7.5 MG Oral Capsule [Brisdelle],1430128,ssri
+1,paroxetine,24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet [Paxil],1738804,ssri
+2,paroxetine,24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet [Paxil],1738806,ssri
+3,paroxetine,24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet [Paxil],1738808,ssri
+4,paroxetine,paroxetine hydrochloride 20 MG Oral Tablet [Paxil],207349,ssri
+5,paroxetine,paroxetine hydrochloride 30 MG Oral Tablet [Paxil],207350,ssri
+6,paroxetine,paroxetine hydrochloride 10 MG Oral Tablet [Paxil],211699,ssri
+7,paroxetine,paroxetine hydrochloride 40 MG Oral Tablet [Paxil],211700,ssri
+8,paroxetine,paroxetine hydrochloride 2 MG/ML Oral Suspension [Paxil],213291,ssri
+9,paroxetine,paroxetine mesylate 10 MG Oral Tablet [Pexeva],541660,ssri
+10,paroxetine,paroxetine mesylate 20 MG Oral Tablet [Pexeva],541662,ssri
+11,paroxetine,paroxetine mesylate 30 MG Oral Tablet [Pexeva],541664,ssri
+12,paroxetine,paroxetine mesylate 40 MG Oral Tablet [Pexeva],541666,ssri
+13,paroxetine,paroxetine mesylate 7.5 MG Oral Capsule,1430122,ssri
+14,paroxetine,paroxetine hydrochloride 10 MG Oral Tablet,1738483,ssri
+15,paroxetine,paroxetine hydrochloride 20 MG Oral Tablet,1738495,ssri
+16,paroxetine,paroxetine hydrochloride 30 MG Oral Tablet,1738503,ssri
+17,paroxetine,paroxetine hydrochloride 40 MG Oral Tablet,1738511,ssri
+18,paroxetine,paroxetine mesylate 10 MG Oral Tablet,1738515,ssri
+19,paroxetine,paroxetine mesylate 20 MG Oral Tablet,1738519,ssri
+20,paroxetine,paroxetine mesylate 30 MG Oral Tablet,1738523,ssri
+21,paroxetine,paroxetine mesylate 40 MG Oral Tablet,1738527,ssri
+22,paroxetine,24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet,1738803,ssri
+23,paroxetine,24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet,1738805,ssri
+24,paroxetine,24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet,1738807,ssri
+25,paroxetine,paroxetine hydrochloride 2 MG/ML Oral Suspension,312242,ssri
+0,desvenlafaxine,24 HR desvenlafaxine 100 MG Extended Release Oral Tablet [Khedezla],1435480,snri
+1,desvenlafaxine,24 HR desvenlafaxine 50 MG Extended Release Oral Tablet [Khedezla],1435483,snri
+2,desvenlafaxine,24 HR desvenlafaxine succinate 25 MG Extended Release Oral Tablet [Pristiq],1607619,snri
+3,desvenlafaxine,24 HR desvenlafaxine succinate 100 MG Extended Release Oral Tablet [Pristiq],790267,snri
+4,desvenlafaxine,24 HR desvenlafaxine succinate 50 MG Extended Release Oral Tablet [Pristiq],790290,snri
+5,desvenlafaxine,24 HR desvenlafaxine succinate 25 MG Extended Release Oral Tablet,1607617,snri
+6,desvenlafaxine,24 HR desvenlafaxine succinate 100 MG Extended Release Oral Tablet,1874553,snri
+7,desvenlafaxine,24 HR desvenlafaxine succinate 50 MG Extended Release Oral Tablet,1874559,snri
+8,desvenlafaxine,24 HR desvenlafaxine 100 MG Extended Release Oral Tablet,790264,snri
+9,desvenlafaxine,24 HR desvenlafaxine 50 MG Extended Release Oral Tablet,790288,snri
+10,desvenlafaxine,desvenlafaxine 100 MG Oral Tablet,803408,snri
+11,desvenlafaxine,desvenlafaxine 50 MG Oral Tablet,803409,snri
+0,duloxetine,duloxetine 40 MG Delayed Release Oral Capsule [Irenka],1652069,snri
+1,duloxetine,Sprinkle duloxetine 20 MG Delayed Release Oral Capsule [Drizalma],2200174,snri
+2,duloxetine,Sprinkle duloxetine 30 MG Delayed Release Oral Capsule [Drizalma],2200177,snri
+3,duloxetine,Sprinkle duloxetine 40 MG Delayed Release Oral Capsule [Drizalma],2200180,snri
+4,duloxetine,Sprinkle duloxetine 60 MG Delayed Release Oral Capsule [Drizalma],2200183,snri
+5,duloxetine,duloxetine 20 MG Delayed Release Oral Capsule [Cymbalta],596928,snri
+6,duloxetine,duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta],596932,snri
+7,duloxetine,duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta],615186,snri
+8,duloxetine,Sprinkle duloxetine 20 MG Delayed Release Oral Capsule,2200168,snri
+9,duloxetine,Sprinkle duloxetine 30 MG Delayed Release Oral Capsule,2200175,snri
+10,duloxetine,Sprinkle duloxetine 40 MG Delayed Release Oral Capsule,2200178,snri
+11,duloxetine,Sprinkle duloxetine 60 MG Delayed Release Oral Capsule,2200181,snri
+12,duloxetine,duloxetine 20 MG Delayed Release Oral Capsule,596926,snri
+13,duloxetine,duloxetine 30 MG Delayed Release Oral Capsule,596930,snri
+14,duloxetine,duloxetine 60 MG Delayed Release Oral Capsule,596934,snri
+15,duloxetine,duloxetine 40 MG Delayed Release Oral Capsule,616402,snri
+0,venlafaxine,venlafaxine 50 MG Oral Tablet [Effexor],208851,snri
+1,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Capsule [Effexor],729929,snri
+2,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Capsule [Effexor],729931,snri
+3,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Capsule [Effexor],729932,snri
+4,venlafaxine,24 HR venlafaxine 112.5 MG Extended Release Oral Tablet,2605950,snri
+5,venlafaxine,venlafaxine 100 MG Oral Tablet,313580,snri
+6,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Capsule,313581,snri
+7,venlafaxine,venlafaxine 25 MG Oral Tablet,313582,snri
+8,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Capsule,313583,snri
+9,venlafaxine,venlafaxine 37.5 MG Oral Tablet,313584,snri
+10,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Capsule,313585,snri
+11,venlafaxine,venlafaxine 75 MG Oral Tablet,313586,snri
+12,venlafaxine,venlafaxine 50 MG Oral Tablet,314277,snri
+13,venlafaxine,24 HR venlafaxine 150 MG Extended Release Oral Tablet,808744,snri
+14,venlafaxine,24 HR venlafaxine 225 MG Extended Release Oral Tablet,808748,snri
+15,venlafaxine,24 HR venlafaxine 37.5 MG Extended Release Oral Tablet,808751,snri
+16,venlafaxine,24 HR venlafaxine 75 MG Extended Release Oral Tablet,808753,snri
+0,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet [Elavil],856836,tca
+1,amitriptyline,amitriptyline hydrochloride 10 MG / perphenazine 2 MG Oral Tablet,856706,tca
+2,amitriptyline,amitriptyline hydrochloride 10 MG / perphenazine 4 MG Oral Tablet,856720,tca
+3,amitriptyline,amitriptyline hydrochloride 100 MG Oral Tablet,856762,tca
+4,amitriptyline,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 5 MG Oral Tablet,856769,tca
+5,amitriptyline,amitriptyline hydrochloride 150 MG Oral Tablet,856773,tca
+6,amitriptyline,amitriptyline hydrochloride 10 MG Oral Tablet,856783,tca
+7,amitriptyline,amitriptyline hydrochloride 25 MG / chlordiazepoxide 10 MG Oral Tablet,856792,tca
+8,amitriptyline,amitriptyline hydrochloride 25 MG / perphenazine 2 MG Oral Tablet,856797,tca
+9,amitriptyline,amitriptyline hydrochloride 25 MG / perphenazine 4 MG Oral Tablet,856825,tca
+10,amitriptyline,amitriptyline hydrochloride 25 MG Oral Tablet,856834,tca
+11,amitriptyline,amitriptyline hydrochloride 50 MG / perphenazine 4 MG Oral Tablet,856840,tca
+12,amitriptyline,amitriptyline hydrochloride 50 MG Oral Tablet,856845,tca
+13,amitriptyline,amitriptyline hydrochloride 75 MG Oral Tablet,856853,tca
+14,amitriptyline,amitriptyline hydrochloride 10 MG/ML Oral Solution,856862,tca
+15,amitriptyline,amitriptyline hydrochloride 12.5 MG / chlordiazepoxide 10 MG Oral Tablet,856863,tca
+16,amitriptyline,amitriptyline hydrochloride 25 MG Extended Release Oral Capsule,856865,tca
+17,amitriptyline,amitriptyline hydrochloride 5 MG/ML Oral Solution,856867,tca
+18,amitriptyline,amitriptyline hydrochloride 50 MG Extended Release Oral Capsule,856868,tca
+0,desipramine,desipramine hydrochloride 10 MG Oral Tablet [Norpramin],1099290,tca
+1,desipramine,desipramine hydrochloride 100 MG Oral Tablet [Norpramin],1099294,tca
+2,desipramine,desipramine hydrochloride 150 MG Oral Tablet [Norpramin],1099298,tca
+3,desipramine,desipramine hydrochloride 25 MG Oral Tablet [Norpramin],1099302,tca
+4,desipramine,desipramine hydrochloride 50 MG Oral Tablet [Norpramin],1099306,tca
+5,desipramine,desipramine hydrochloride 75 MG Oral Tablet [Norpramin],1099318,tca
+6,desipramine,desipramine hydrochloride 10 MG Oral Tablet,1099288,tca
+7,desipramine,desipramine hydrochloride 100 MG Oral Tablet,1099292,tca
+8,desipramine,desipramine hydrochloride 150 MG Oral Tablet,1099296,tca
+9,desipramine,desipramine hydrochloride 25 MG Oral Tablet,1099300,tca
+10,desipramine,desipramine hydrochloride 50 MG Oral Tablet,1099304,tca
+11,desipramine,desipramine hydrochloride 75 MG Oral Tablet,1099316,tca
+0,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream [Prudoxin],1000093,tca
+1,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream [Zonalon],1000095,tca
+2,doxepin,doxepin 3 MG Oral Tablet [Silenor],966791,tca
+3,doxepin,doxepin 6 MG Oral Tablet [Silenor],966795,tca
+4,doxepin,doxepin 10 MG Oral Capsule,1000048,tca
+5,doxepin,doxepin 10 MG/ML Oral Solution,1000054,tca
+6,doxepin,doxepin 100 MG Oral Capsule,1000058,tca
+7,doxepin,doxepin 150 MG Oral Capsule,1000064,tca
+8,doxepin,doxepin 25 MG Oral Capsule,1000070,tca
+9,doxepin,doxepin 50 MG Oral Capsule,1000076,tca
+10,doxepin,doxepin hydrochloride 50 MG/ML Topical Cream,1000091,tca
+11,doxepin,doxepin 75 MG Oral Capsule,1000097,tca
+12,doxepin,doxepin 3 MG Oral Tablet,966787,tca
+13,doxepin,doxepin 6 MG Oral Tablet,966793,tca
+0,nortriptyline,nortriptyline 10 MG Oral Capsule [Pamelor],209329,tca
+1,nortriptyline,nortriptyline 25 MG Oral Capsule [Pamelor],209339,tca
+2,nortriptyline,nortriptyline 50 MG Oral Capsule [Pamelor],209350,tca
+3,nortriptyline,nortriptyline 75 MG Oral Capsule [Pamelor],209391,tca
+4,nortriptyline,nortriptyline 10 MG Oral Capsule,198045,tca
+5,nortriptyline,nortriptyline 50 MG Oral Capsule,198046,tca
+6,nortriptyline,nortriptyline 75 MG Oral Capsule,198047,tca
+7,nortriptyline,nortriptyline 10 MG Oral Tablet,199283,tca
+8,nortriptyline,nortriptyline 25 MG Oral Tablet,199406,tca
+9,nortriptyline,nortriptyline 2 MG/ML Oral Solution,312036,tca
+10,nortriptyline,nortriptyline 25 MG Oral Capsule,317136,tca
+11,nortriptyline,fluphenazine hydrochloride 0.5 MG / nortriptyline 10 MG Oral Tablet,865143,tca
+12,nortriptyline,fluphenazine hydrochloride 1.5 MG / nortriptyline 30 MG Oral Tablet,865146,tca
+0,trimipramine,trimipramine 25 MG Oral Tablet,199820,tca
+1,trimipramine,trimipramine 10 MG Oral Tablet,250033,tca
+2,trimipramine,trimipramine 100 MG Oral Capsule,313496,tca
+3,trimipramine,trimipramine 25 MG Oral Capsule,313498,tca
+4,trimipramine,trimipramine 50 MG Oral Capsule,313499,tca
+0,imipramine,imipramine hydrochloride 25 MG Oral Tablet,835564,tca
+1,imipramine,imipramine hydrochloride 50 MG Oral Tablet,835568,tca
+2,imipramine,imipramine pamoate 75 MG Oral Capsule,835572,tca
+3,imipramine,imipramine pamoate 150 MG Oral Capsule,835577,tca
+4,imipramine,imipramine hydrochloride 5 MG/ML Oral Solution,835586,tca
+5,imipramine,imipramine pamoate 125 MG Oral Capsule,835589,tca
+6,imipramine,imipramine pamoate 100 MG Oral Capsule,835591,tca
+7,imipramine,imipramine hydrochloride 10 MG Oral Tablet,835593,tca
+0,tranylcypromine,tranylcypromine 10 MG Oral Tablet [Parnate],104838,maoi
+1,tranylcypromine,tranylcypromine 10 MG Oral Tablet,313447,maoi
+0,phenelzine,phenelzine 15 MG Oral Tablet [Nardil],104836,maoi
+1,phenelzine,phenelzine 15 MG Oral Tablet,312347,maoi
+0,selegiline,selegiline hydrochloride 5 MG Oral Capsule [Eldepryl],859188,maoi
+1,selegiline,selegiline hydrochloride 1.25 MG Disintegrating Oral Tablet [Zelapar],859192,maoi
+2,selegiline,24 HR selegiline 0.25 MG/HR Transdermal System [Emsam],865208,maoi
+3,selegiline,24 HR selegiline 0.375 MG/HR Transdermal System [Emsam],865212,maoi
+4,selegiline,24 HR selegiline 0.5 MG/HR Transdermal System [Emsam],865216,maoi
+5,selegiline,selegiline hydrochloride 15 MG Oral Tablet [Anipryl],880387,maoi
+6,selegiline,selegiline hydrochloride 5 MG Oral Tablet [Anipryl],897065,maoi
+7,selegiline,selegiline hydrochloride 10 MG Oral Tablet [Anipryl],897067,maoi
+8,selegiline,selegiline hydrochloride 30 MG Oral Tablet [Anipryl],897071,maoi
+9,selegiline,selegiline hydrochloride 5 MG Oral Capsule,859186,maoi
+10,selegiline,selegiline hydrochloride 1.25 MG Disintegrating Oral Tablet,859190,maoi
+11,selegiline,selegiline hydrochloride 5 MG Oral Tablet,859193,maoi
+12,selegiline,24 HR selegiline 0.25 MG/HR Transdermal System,865206,maoi
+13,selegiline,24 HR selegiline 0.375 MG/HR Transdermal System,865210,maoi
+14,selegiline,24 HR selegiline 0.5 MG/HR Transdermal System,865214,maoi
+15,selegiline,selegiline hydrochloride 1.25 MG Oral Tablet,865218,maoi
+16,selegiline,selegiline hydrochloride 10 MG Oral Tablet,865220,maoi
+17,selegiline,selegiline hydrochloride 2 MG/ML Oral Solution,865222,maoi
+18,selegiline,selegiline hydrochloride 15 MG Oral Tablet,880383,maoi
+19,selegiline,selegiline hydrochloride 30 MG Oral Tablet,897069,maoi
+0,bupropion,24 HR bupropion hydrochloride 450 MG Extended Release Oral Tablet [Forfivo],1232591,atypical
+1,bupropion,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet [Contrave],1551474,atypical
+2,bupropion,bupropion hydrochloride 105 MG / dextromethorphan hydrobromide 45 MG Extended Release Oral Tablet [Auvelity],2611266,atypical
+3,bupropion,12 HR bupropion hydrochloride 100 MG Extended Release Oral Tablet [Wellbutrin],993511,atypical
+4,bupropion,12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin],993528,atypical
+5,bupropion,12 HR bupropion hydrochloride 200 MG Extended Release Oral Tablet [Wellbutrin],993537,atypical
+6,bupropion,24 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet [Wellbutrin],993545,atypical
+7,bupropion,24 HR bupropion hydrobromide 174 MG Extended Release Oral Tablet [Aplenzin],993552,atypical
+8,bupropion,24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet [Wellbutrin],993564,atypical
+9,bupropion,24 HR bupropion hydrobromide 348 MG Extended Release Oral Tablet [Aplenzin],993569,atypical
+10,bupropion,24 HR bupropion hydrobromide 522 MG Extended Release Oral Tablet [Aplenzin],993683,atypical
+11,bupropion,bupropion hydrochloride 100 MG Oral Tablet [Wellbutrin],993688,atypical
+12,bupropion,24 HR bupropion hydrochloride 450 MG Extended Release Oral Tablet,1232585,atypical
+13,bupropion,12 HR bupropion hydrochloride 90 MG / naltrexone hydrochloride 8 MG Extended Release Oral Tablet,1551468,atypical
+14,bupropion,Smoking Cessation 12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet,1801289,atypical
+15,bupropion,bupropion hydrochloride 105 MG / dextromethorphan hydrobromide 45 MG Extended Release Oral Tablet,2611260,atypical
+16,bupropion,12 HR bupropion hydrochloride 100 MG Extended Release Oral Tablet,993503,atypical
+17,bupropion,12 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet,993518,atypical
+18,bupropion,12 HR bupropion hydrochloride 200 MG Extended Release Oral Tablet,993536,atypical
+19,bupropion,24 HR bupropion hydrochloride 150 MG Extended Release Oral Tablet,993541,atypical
+20,bupropion,24 HR bupropion hydrobromide 174 MG Extended Release Oral Tablet,993550,atypical
+21,bupropion,24 HR bupropion hydrochloride 300 MG Extended Release Oral Tablet,993557,atypical
+22,bupropion,24 HR bupropion hydrobromide 348 MG Extended Release Oral Tablet,993567,atypical
+23,bupropion,24 HR bupropion hydrobromide 522 MG Extended Release Oral Tablet,993681,atypical
+24,bupropion,bupropion hydrochloride 100 MG Oral Tablet,993687,atypical
+25,bupropion,bupropion hydrochloride 75 MG Oral Tablet,993691,atypical
+0,mirtazapine,mirtazapine 0.02 MG/MG Topical Ointment [Mirataz],2049256,atypical
+1,mirtazapine,mirtazapine 15 MG Oral Tablet [Remeron],211322,atypical
+2,mirtazapine,mirtazapine 30 MG Oral Tablet [Remeron],211323,atypical
+3,mirtazapine,mirtazapine 15 MG Disintegrating Oral Tablet [Remeron],752869,atypical
+4,mirtazapine,mirtazapine 30 MG Disintegrating Oral Tablet [Remeron],752870,atypical
+5,mirtazapine,mirtazapine 45 MG Disintegrating Oral Tablet [Remeron],752871,atypical
+6,mirtazapine,mirtazapine 0.02 MG/MG Topical Ointment,2049251,atypical
+7,mirtazapine,mirtazapine 15 MG Disintegrating Oral Tablet,283406,atypical
+8,mirtazapine,mirtazapine 30 MG Disintegrating Oral Tablet,283407,atypical
+9,mirtazapine,mirtazapine 45 MG Disintegrating Oral Tablet,283485,atypical
+10,mirtazapine,mirtazapine 15 MG Oral Tablet,311725,atypical
+11,mirtazapine,mirtazapine 45 MG Oral Tablet,311726,atypical
+12,mirtazapine,mirtazapine 30 MG Oral Tablet,314111,atypical
+13,mirtazapine,mirtazapine 7.5 MG Oral Tablet,476809,atypical
+0,nefazodone,nefazodone hydrochloride 100 MG Oral Tablet,1098649,atypical
+1,nefazodone,nefazodone hydrochloride 150 MG Oral Tablet,1098666,atypical
+2,nefazodone,nefazodone hydrochloride 200 MG Oral Tablet,1098670,atypical
+3,nefazodone,nefazodone hydrochloride 250 MG Oral Tablet,1098674,atypical
+4,nefazodone,nefazodone hydrochloride 50 MG Oral Tablet,1098678,atypical
+5,nefazodone,nefazodone hydrochloride 300 MG Oral Tablet,1098710,atypical
+0,trazodone,24 HR trazodone hydrochloride 150 MG Extended Release Oral Tablet [Oleptro],898701,atypical
+1,trazodone,24 HR trazodone hydrochloride 300 MG Extended Release Oral Tablet [Oleptro],898706,atypical
+2,trazodone,trazodone hydrochloride 150 MG Oral Tablet,856364,atypical
+3,trazodone,trazodone hydrochloride 300 MG Oral Tablet,856369,atypical
+4,trazodone,trazodone hydrochloride 100 MG Oral Tablet,856373,atypical
+5,trazodone,trazodone hydrochloride 50 MG Oral Tablet,856377,atypical
+6,trazodone,trazodone hydrochloride 10 MG/ML Oral Solution,856381,atypical
+7,trazodone,trazodone hydrochloride 100 MG Oral Capsule,856382,atypical
+8,trazodone,trazodone hydrochloride 50 MG Oral Capsule,856383,atypical
+9,trazodone,24 HR trazodone hydrochloride 150 MG Extended Release Oral Tablet,898697,atypical
+10,trazodone,24 HR trazodone hydrochloride 300 MG Extended Release Oral Tablet,898704,atypical
+0,vortioxetine,vortioxetine 10 MG Oral Tablet [Trintellix],1790886,atypical
+1,vortioxetine,vortioxetine 20 MG Oral Tablet [Trintellix],1790890,atypical
+2,vortioxetine,vortioxetine 5 MG Oral Tablet [Trintellix],1790892,atypical
+3,vortioxetine,vortioxetine 10 MG Oral Tablet,1439808,atypical
+4,vortioxetine,vortioxetine 20 MG Oral Tablet,1439810,atypical
+5,vortioxetine,vortioxetine 5 MG Oral Tablet,1439812,atypical
+6,vortioxetine,vortioxetine 15 MG Oral Tablet,1439840,atypical
