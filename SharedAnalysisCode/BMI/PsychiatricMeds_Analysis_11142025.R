@@ -487,11 +487,11 @@ for(m in seq_along(medications)){
   
   # fit interaction model
   model <- lm(BMI ~ 
-                med*prs +
+                med*PRS +
                 + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10, 
               data = genomatrix, na.action=na.exclude)
   results <- summary(model)$coefficients
-  cov <- "med1:prs"
+  cov <- "med1:PRS"
   if(cov %in% rownames(results)){
     estimate <- as.numeric(results[cov, 1])
     se <- as.numeric(results[cov, 2])
@@ -1453,18 +1453,18 @@ for(m in seq_along(medications)){
   
   
   # Mediator model: med ~ Genotype
-  model_m <- glm(med ~ prs + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10, 
+  model_m <- glm(med ~ PRS + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10, 
                  data = genomatrix_m, family='binomial')
   
   # Outcome model: BMI ~ Genotype + med
-  model_y <- lm(BMI ~ prs + med + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10,
+  model_y <- lm(BMI ~ PRS + med + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10,
                 data = genomatrix_m)
   
   # Mediation analysis
   med.out <- mediate(
     model.m = model_m,
     model.y = model_y,
-    treat = "prs",
+    treat = "PRS",
     mediator = "med",
     sims = 50,
     robustSE = TRUE,
@@ -1585,18 +1585,18 @@ for(m in seq_along(medications)){
   
   
   # Mediator model: med ~ Genotype
-  model_m <- glm(med ~ prs + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10, 
+  model_m <- glm(med ~ PRS + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10, 
                  data = genomatrix_m, family='binomial')
   
   # Outcome model: BMI ~ Genotype + med
-  model_y <- lm(BMI ~ prs*med + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10,
+  model_y <- lm(BMI ~ PRS*med + sex + PC1 + PC2 + PC3 + PC4 + PC5 + PC6 + PC7 + PC8 + PC9 + PC10,
                 data = genomatrix_m)
   
   # Mediation analysis
   med.out <- mediate(
     model.m = model_m,
     model.y = model_y,
-    treat = "prs",
+    treat = "PRS",
     mediator = "med",
     sims = 50,
     robustSE = TRUE,

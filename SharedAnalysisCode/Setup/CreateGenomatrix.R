@@ -16,8 +16,8 @@ library(purrr)    # for map_lgl()
 demographics <- read.csv('path/to/your/demographics')
 
 
-demographics$sex <- as.factor(demographics$sex, ref='1') # PLINK notation, 1 for male, 2 for female
-demographics$age <- as.numeric(demongraphics$age)
+demographics$sex <- relevel(as.factor(demographics$sex), ref='1') # PLINK notation, 1 for male, 2 for female
+demographics$age <- as.numeric(demographics$age)
 demographics$age_sq <- demographics$age ** 2
 
 rownames(demographics) <- demographics$sampleID
@@ -108,8 +108,13 @@ genomatrix <- merge(genomatrix, pgs[, c('PGS_HEIGHT', 'PGS_BMI')],
 rownames(genomatrix) <- genomatrix$Row.names
 genomatrix$Row.names <- NULL
 
-genomatrix$PGS_HEIGHT <- scale(genomatrix$PGS_HEIGHT) # scale to N(0,1)
-genomatrix$PGS_BMI <- scale(genomatrix$PGS_BMI) # scale to N(0,1)
+# column names must match what the Height/BMI analysis scripts read
+genomatrix$PRS_HEIGHT_zscore <- as.numeric(scale(genomatrix$PGS_HEIGHT)) # scale to N(0,1)
+genomatrix$PRS_BMI_zscore <- as.numeric(scale(genomatrix$PGS_BMI)) # scale to N(0,1)
+
+# PGS quartiles, coded 1 (lowest) to 4 (highest)
+genomatrix$PRS_HEIGHT_quantile <- ntile(genomatrix$PRS_HEIGHT_zscore, 4)
+genomatrix$PRS_BMI_quantile <- ntile(genomatrix$PRS_BMI_zscore, 4)
 
 
 
@@ -183,3 +188,11 @@ genomatrix$antidepressant <- ifelse(rowSums(genomatrix[, c("ssri", "snri", "tca"
 genomatrix$all_medication <- ifelse(rowSums(genomatrix[, c("antidepressant", "antipsychotic", "mood_stabilizer")]) > 0, 1, 0)
 
 
+
+
+#####################
+### Save output   ###
+#####################
+
+# this file is read in by the Height and BMI analysis scripts
+write.csv(genomatrix, 'path/to/your/genomatrix.csv', row.names = FALSE)
